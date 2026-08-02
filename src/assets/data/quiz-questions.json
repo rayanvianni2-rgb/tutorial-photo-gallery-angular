@@ -1,0 +1,2396 @@
+{
+  "questions": [
+
+    {
+      "id": "football-f-1",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Combien de joueurs une équipe de football aligne-t-elle sur le terrain ?",
+      "answers": ["9", "10", "11", "12"],
+      "correctAnswer": 2,
+      "explanation": "Une équipe joue avec 11 joueurs, gardien compris."
+    },
+    {
+      "id": "football-f-2",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Combien de minutes dure normalement un match de football sans prolongation ?",
+      "answers": ["60 minutes", "75 minutes", "90 minutes", "120 minutes"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-f-3",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Quel joueur est surnommé CR7 ?",
+      "answers": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Mbappé"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-f-4",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Quelle partie du corps est interdite pour un joueur de champ pour toucher volontairement le ballon ?",
+      "answers": ["Tête", "Pied", "Main", "Épaule"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-f-5",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Quelle couleur de carton signifie une exclusion définitive ?",
+      "answers": ["Vert", "Jaune", "Rouge", "Bleu"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-f-6",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Quel pays a gagné la Coupe du monde 2018 ?",
+      "answers": ["Brésil", "France", "Allemagne", "Argentine"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-f-7",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on le joueur qui protège le but ?",
+      "answers": ["Défenseur", "Milieu", "Gardien", "Attaquant"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-f-8",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Combien de points rapporte généralement une victoire en championnat ?",
+      "answers": ["1", "2", "3", "5"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-f-9",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Quel objet utilise l'arbitre pour signaler une faute ?",
+      "answers": ["Sifflet", "Balle", "Drapeau", "Casque"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-f-10",
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "La Coupe du monde est organisée par quelle organisation ?",
+      "answers": ["UEFA", "FIFA", "CAF", "NBA"],
+      "correctAnswer": 1
+    },
+
+
+    {
+      "id": "football-m-1",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Quel club joue ses matchs au Camp Nou ?",
+      "answers": ["Real Madrid", "FC Barcelone", "Chelsea", "Juventus"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-m-2",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Dans quel pays le football moderne a-t-il été codifié ?",
+      "answers": ["Brésil", "Italie", "Angleterre", "Espagne"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-m-3",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Combien de joueurs composent une équipe avec les remplaçants sur la feuille de match selon les compétitions modernes ?",
+      "answers": ["Variable selon les règles", "5", "11", "20"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-m-4",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Quel championnat est celui de l'Allemagne ?",
+      "answers": ["Liga", "Bundesliga", "Premier League", "Serie A"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-m-5",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Quel trophée récompense le meilleur joueur du monde chaque année ?",
+      "answers": ["Ballon d'Or", "Soulier d'Or", "Coupe FIFA", "Golden Cup"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-m-6",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Quel club anglais joue à Old Trafford ?",
+      "answers": ["Liverpool", "Arsenal", "Manchester United", "Chelsea"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-m-7",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Un hat-trick correspond à combien de buts par un joueur ?",
+      "answers": ["2", "3", "4", "5"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-m-8",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Quel pays a remporté la Coupe du monde 2022 ?",
+      "answers": ["France", "Argentine", "Brésil", "Espagne"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-m-9",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Quel poste joue généralement le numéro 9 ?",
+      "answers": ["Gardien", "Attaquant", "Défenseur", "Arbitre"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-m-10",
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "La Ligue des champions est organisée par quelle confédération ?",
+      "answers": ["UEFA", "FIFA", "CAF", "CONMEBOL"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-d-1",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel joueur détient le record du nombre de buts marqués en Coupe du monde masculine ?",
+      "answers": ["Pelé", "Miroslav Klose", "Ronaldo", "Gerd Müller"],
+      "correctAnswer": 1,
+      "explanation": "Miroslav Klose a marqué 16 buts en Coupe du monde."
+    },
+    {
+      "id": "football-d-2",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel pays a remporté la première Coupe du monde en 1930 ?",
+      "answers": ["Brésil", "Uruguay", "Italie", "Argentine"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-d-3",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel club a remporté le plus de Ligues des champions européennes ?",
+      "answers": ["FC Barcelone", "Real Madrid", "Milan AC", "Liverpool"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-d-4",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel joueur argentin est célèbre pour la 'Main de Dieu' en 1986 ?",
+      "answers": ["Lionel Messi", "Diego Maradona", "Batistuta", "Agüero"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-d-5",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Dans quel pays se trouve le club Boca Juniors ?",
+      "answers": ["Brésil", "Argentine", "Espagne", "Italie"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-d-6",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel gardien italien a remporté la Coupe du monde 2006 ?",
+      "answers": ["Buffon", "Donnarumma", "Dida", "Casillas"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-d-7",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel pays a accueilli la Coupe du monde 2010 ?",
+      "answers": ["Afrique du Sud", "Maroc", "Égypte", "Nigeria"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-d-8",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel joueur possède le record de Ballons d'Or remportés ?",
+      "answers": ["Cristiano Ronaldo", "Messi", "Zidane", "Ronaldinho"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-d-9",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel club français a remporté la Ligue des champions en 1993 ?",
+      "answers": ["PSG", "Monaco", "Marseille", "Lyon"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-d-10",
+      "category": "Football",
+      "difficulty": "difficile",
+      "question": "Quel joueur allemand a marqué le but de la finale de la Coupe du monde 2014 ?",
+      "answers": ["Thomas Müller", "Mario Götze", "Miroslav Klose", "Özil"],
+      "correctAnswer": 1
+    },
+
+
+    {
+      "id": "football-e-1",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Qui a marqué le premier but de l'histoire de la Coupe du monde ?",
+      "answers": ["Lucien Laurent", "Pelé", "Maradona", "Klose"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-e-2",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel club a remporté la première Coupe d'Europe des clubs champions en 1956 ?",
+      "answers": ["Real Madrid", "Milan AC", "Benfica", "Reims"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-e-3",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel entraîneur a remporté trois Ligues des champions consécutives avec le Real Madrid ?",
+      "answers": ["Guardiola", "Zidane", "Mourinho", "Ancelotti"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-e-4",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel joueur a marqué le but de la victoire en finale du Mondial 2010 ?",
+      "answers": ["Iniesta", "Xavi", "Villa", "Torres"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-e-5",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quelle sélection a remporté le plus de Coupes du monde masculines ?",
+      "answers": ["Allemagne", "Italie", "Brésil", "Argentine"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "football-e-6",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel joueur français a remporté le Ballon d'Or 1998 ?",
+      "answers": ["Henry", "Zidane", "Platini", "Benzema"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "football-e-7",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel club possède le surnom 'Les Merengues' ?",
+      "answers": ["Real Madrid", "Barcelone", "Juventus", "Inter"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-e-8",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel joueur a remporté la Coupe du monde 3 fois avec le Brésil ?",
+      "answers": ["Pelé", "Ronaldo", "Romário", "Neymar"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-e-9",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel stade est surnommé 'La Bombonera' ?",
+      "answers": ["Boca Juniors", "River Plate", "Santos", "Flamengo"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "football-e-10",
+      "category": "Football",
+      "difficulty": "expert",
+      "question": "Quel joueur détient le record de buts en Ligue des champions ?",
+      "answers": ["Messi", "Cristiano Ronaldo", "Lewandowski", "Benzema"],
+      "correctAnswer": 1
+    },
+
+    {
+      "id": "histoire-f-1",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "En quelle année a commencé la Révolution française ?",
+      "answers": ["1492", "1789", "1815", "1914"],
+      "correctAnswer": 1,
+      "explanation": "La Révolution française a commencé en 1789."
+    },
+    {
+      "id": "histoire-f-2",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Qui était le premier empereur des Français ?",
+      "answers": ["Louis XIV", "Napoléon Bonaparte", "Charlemagne", "Henri IV"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-f-3",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Dans quel pays se trouvent les pyramides de Gizeh ?",
+      "answers": ["Égypte", "Grèce", "Italie", "Mexique"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-f-4",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Qui était Jeanne d'Arc ?",
+      "answers": ["Une reine", "Une héroïne française", "Une scientifique", "Une artiste"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-f-5",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Quel événement a eu lieu en 1492 ?",
+      "answers": ["Chute de Rome", "Découverte de l'Amérique", "Révolution française", "Guerre mondiale"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-f-6",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Quel peuple a construit le Colisée de Rome ?",
+      "answers": ["Romains", "Vikings", "Égyptiens", "Mongols"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-f-7",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Quel monument symbolise Paris ?",
+      "answers": ["Big Ben", "Tour Eiffel", "Colisée", "Pyramide"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-f-8",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "La Première Guerre mondiale a commencé en quelle année ?",
+      "answers": ["1914", "1939", "1945", "1900"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-f-9",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Qui était Cléopâtre ?",
+      "answers": ["Une reine d'Égypte", "Une guerrière japonaise", "Une scientifique", "Une exploratrice"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-f-10",
+      "category": "Histoire",
+      "difficulty": "facile",
+      "question": "Quel mur est tombé en 1989 ?",
+      "answers": ["Mur de Berlin", "Muraille de Chine", "Mur d'Hadrien", "Mur de Rome"],
+      "correctAnswer": 0
+    },
+
+    {
+      "id": "histoire-m-1",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quelle civilisation a construit Machu Picchu ?",
+      "answers": ["Incas", "Romains", "Grecs", "Mayas"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-2",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quel roi a signé l'édit de Nantes en 1598 ?",
+      "answers": ["Henri IV", "Louis XIV", "Napoléon", "Louis XVI"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-3",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quelle civilisation a créé l'écriture cunéiforme ?",
+      "answers": ["Sumer", "Rome", "Égypte", "Chine"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-4",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "answers": ["Traité de Versailles", "Traité de Rome", "Traité de Paris", "Traité de Madrid"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-5",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Qui était Jules César ?",
+      "answers": ["Un général romain", "Un roi anglais", "Un pharaon", "Un empereur chinois"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-6",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quelle ville était la capitale de l'Empire byzantin ?",
+      "answers": ["Constantinople", "Paris", "Athènes", "Londres"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-7",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quel navigateur a atteint l'Amérique en 1492 ?",
+      "answers": ["Christophe Colomb", "Magellan", "Vasco de Gama", "Cook"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-8",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quelle guerre a opposé Athènes et Sparte ?",
+      "answers": ["Guerre du Péloponnèse", "Guerre de Cent Ans", "Guerre froide", "Guerre punique"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-9",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quel peuple a fondé Rome selon la légende ?",
+      "answers": ["Romulus et Rémus", "Les Vikings", "Les Perses", "Les Celtes"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-m-10",
+      "category": "Histoire",
+      "difficulty": "moyen",
+      "question": "Quel événement marque la fin de l'Empire romain d'Occident ?",
+      "answers": ["476", "1492", "1789", "1918"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-d-1",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quel empereur romain a légalisé le christianisme avec l'édit de Milan ?",
+      "answers": ["Auguste", "Constantin Ier", "Néron", "Trajan"],
+      "correctAnswer": 1,
+      "explanation": "Constantin Ier a autorisé le christianisme dans l'Empire romain en 313."
+    },
+    {
+      "id": "histoire-d-2",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quelle dynastie dirigeait la France pendant la Révolution française ?",
+      "answers": ["Mérovingiens", "Bourbons", "Capétiens", "Valois"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-d-3",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quel événement a déclenché la Première Guerre mondiale ?",
+      "answers": [
+        "La chute de Berlin",
+        "L'assassinat de François-Ferdinand",
+        "La révolution russe",
+        "Le traité de Versailles"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-d-4",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quel empire avait Constantinople comme capitale ?",
+      "answers": [
+        "Empire byzantin",
+        "Empire mongol",
+        "Empire carolingien",
+        "Empire britannique"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-d-5",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Qui était le chef militaire de Carthage lors de la deuxième guerre punique ?",
+      "answers": ["Hannibal", "César", "Alexandre", "Périclès"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-d-6",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quel événement marque la fin du Moyen Âge pour de nombreux historiens ?",
+      "answers": [
+        "La découverte de l'Amérique en 1492",
+        "La chute de Rome",
+        "La Révolution française",
+        "La bataille de Waterloo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-d-7",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quel pharaon est associé au tombeau découvert par Howard Carter en 1922 ?",
+      "answers": [
+        "Ramsès II",
+        "Toutânkhamon",
+        "Cléopâtre",
+        "Akhenaton"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-d-8",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quelle bataille marque la défaite finale de Napoléon ?",
+      "answers": [
+        "Austerlitz",
+        "Waterloo",
+        "Verdun",
+        "Marignan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "histoire-d-9",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quel peuple a créé la démocratie à Athènes ?",
+      "answers": [
+        "Les Grecs",
+        "Les Romains",
+        "Les Perses",
+        "Les Égyptiens"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-d-10",
+      "category": "Histoire",
+      "difficulty": "difficile",
+      "question": "Quel événement a marqué la fin de la Seconde Guerre mondiale en Europe ?",
+      "answers": [
+        "La capitulation allemande de 1945",
+        "La chute du mur de Berlin",
+        "Le traité de Versailles",
+        "La bataille de Waterloo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-1",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel traité partagea l'ancien empire d'Alexandre le Grand après sa mort ?",
+      "answers": [
+        "Les accords de Babylone",
+        "Le traité de Rome",
+        "Le traité de Verdun",
+        "Le traité de Tordesillas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-2",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel empereur byzantin a ordonné la compilation du Code Justinien ?",
+      "answers": [
+        "Justinien Ier",
+        "Constantin Ier",
+        "Héraclius",
+        "Basile II"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-3",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel événement est considéré comme le début de la Réforme protestante ?",
+      "answers": [
+        "Les 95 thèses de Luther",
+        "La chute de Rome",
+        "La croisade de 1095",
+        "L'édit de Nantes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-4",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel roi français a été exécuté pendant la Révolution française ?",
+      "answers": [
+        "Louis XVI",
+        "Louis XIV",
+        "Charles X",
+        "Henri IV"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-5",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel général romain a franchi le Rubicon en 49 av. J.-C. ?",
+      "answers": [
+        "Jules César",
+        "Auguste",
+        "Scipion",
+        "Marc Antoine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-6",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel événement a officiellement séparé l'Église d'Orient et l'Église d'Occident ?",
+      "answers": [
+        "Le schisme de 1054",
+        "La Réforme",
+        "Le concile de Trente",
+        "La croisade de 1204"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-7",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel peuple a fondé la ville de Carthage ?",
+      "answers": [
+        "Les Phéniciens",
+        "Les Romains",
+        "Les Grecs",
+        "Les Vikings"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-8",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel accord a divisé les nouvelles terres découvertes entre Espagne et Portugal ?",
+      "answers": [
+        "Traité de Tordesillas",
+        "Traité de Versailles",
+        "Traité de Paris",
+        "Traité de Rome"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-9",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel événement a provoqué la chute de Constantinople en 1453 ?",
+      "answers": [
+        "La conquête ottomane",
+        "Une invasion romaine",
+        "Une guerre civile française",
+        "Une épidémie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "histoire-e-10",
+      "category": "Histoire",
+      "difficulty": "expert",
+      "question": "Quel philosophe grec fut le maître d'Alexandre le Grand ?",
+      "answers": [
+        "Aristote",
+        "Socrate",
+        "Platon",
+        "Pythagore"
+      ],
+      "correctAnswer": 0
+    },
+
+    {
+      "id": "wwe-f-1",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel catcheur est surnommé The Rock ?",
+      "answers": [
+        "Dwayne Johnson",
+        "John Cena",
+        "Roman Reigns",
+        "Brock Lesnar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-2",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel est le vrai nom de The Undertaker ?",
+      "answers": [
+        "Mark Calaway",
+        "Paul Levesque",
+        "Glenn Jacobs",
+        "Randy Orton"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-3",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel catcheur utilise le slogan You Can't See Me ?",
+      "answers": [
+        "John Cena",
+        "The Rock",
+        "Batista",
+        "Edge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-4",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel événement WWE est le plus grand spectacle de l'année ?",
+      "answers": [
+        "WrestleMania",
+        "Raw",
+        "NXT",
+        "SmackDown"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-5",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel catcheur utilise le RKO ?",
+      "answers": [
+        "Randy Orton",
+        "Seth Rollins",
+        "AJ Styles",
+        "Rey Mysterio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-6",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel catcheur porte un masque et utilise le 619 ?",
+      "answers": [
+        "Rey Mysterio",
+        "Kane",
+        "The Undertaker",
+        "Big Show"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-7",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Vrai ou Faux : John Cena a été champion WWE.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-8",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel catcheur est surnommé The Beast Incarnate ?",
+      "answers": [
+        "Brock Lesnar",
+        "Goldberg",
+        "Triple H",
+        "Batista"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-9",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel show WWE est diffusé le vendredi ?",
+      "answers": [
+        "SmackDown",
+        "Raw",
+        "NXT",
+        "Main Event"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-f-10",
+      "category": "WWE",
+      "difficulty": "facile",
+      "question": "Quel catcheur est connu pour le mouvement Spear ?",
+      "answers": [
+        "Roman Reigns",
+        "John Cena",
+        "Rey Mysterio",
+        "Shawn Michaels"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-1",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quel groupe était composé de Roman Reigns, Seth Rollins et Dean Ambrose ?",
+      "answers": [
+        "The Shield",
+        "Evolution",
+        "The New Day",
+        "D-Generation X"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-2",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quel catcheur est surnommé The Heartbreak Kid ?",
+      "answers": [
+        "Shawn Michaels",
+        "Ric Flair",
+        "Bret Hart",
+        "Kurt Angle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-3",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quelle prise est associée à Triple H ?",
+      "answers": [
+        "Pedigree",
+        "RKO",
+        "619",
+        "Stunner"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-4",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Vrai ou Faux : Roman Reigns appartient à la famille Anoa'i.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-5",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quel catcheur est surnommé The Phenomenal One ?",
+      "answers": [
+        "AJ Styles",
+        "Finn Balor",
+        "Samoa Joe",
+        "Kevin Owens"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-6",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quel événement WWE contient le Royal Rumble Match ?",
+      "answers": [
+        "Royal Rumble",
+        "SummerSlam",
+        "Survivor Series",
+        "Backlash"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-7",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quel catcheur est connu pour la prise Sweet Chin Music ?",
+      "answers": [
+        "Shawn Michaels",
+        "John Cena",
+        "Randy Orton",
+        "Edge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-8",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quel groupe était formé par Triple H, Batista, Randy Orton et Ric Flair ?",
+      "answers": [
+        "Evolution",
+        "The Shield",
+        "The Bloodline",
+        "The Nexus"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-9",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Quel catcheur est surnommé The Rated-R Superstar ?",
+      "answers": [
+        "Edge",
+        "Christian",
+        "Jeff Hardy",
+        "Matt Hardy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-m-10",
+      "category": "WWE",
+      "difficulty": "moyen",
+      "question": "Vrai ou Faux : WWE était auparavant appelée WWF.",
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "wwe-d-1",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Quel catcheur a remporté le Royal Rumble 2002 ?",
+      "answers": [
+        "Triple H",
+        "Stone Cold Steve Austin",
+        "Brock Lesnar",
+        "Kurt Angle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stone Cold Steve Austin a remporté le Royal Rumble 2002."
+    },
+    {
+      "id": "wwe-d-2",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Quel était le nom du clan formé par Triple H, Shawn Michaels, Chyna et Rick Rude ?",
+      "answers": [
+        "Evolution",
+        "D-Generation X",
+        "The Shield",
+        "The Authority"
+      ],
+      "correctAnswer": 1,
+      "explanation": "D-Generation X a été créé dans l'ère Attitude."
+    },
+    {
+      "id": "wwe-d-3",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Qui a vaincu The Undertaker à WrestleMania 30 ?",
+      "answers": [
+        "Roman Reigns",
+        "Brock Lesnar",
+        "John Cena",
+        "Triple H"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brock Lesnar a mis fin à la série d'invincibilité de The Undertaker."
+    },
+    {
+      "id": "wwe-d-4",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Quel catcheur est surnommé 'The Heartbreak Kid' ?",
+      "answers": [
+        "Shawn Michaels",
+        "Jeff Hardy",
+        "Randy Orton",
+        "Edge"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Shawn Michaels porte le surnom The Heartbreak Kid."
+    },
+    {
+      "id": "wwe-d-5",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Quel événement annuel de la WWE se déroule traditionnellement en janvier ?",
+      "answers": [
+        "SummerSlam",
+        "Royal Rumble",
+        "Survivor Series",
+        "Money in the Bank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le Royal Rumble a lieu chaque année en janvier."
+    },
+    {
+      "id": "wwe-d-6",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Quel catcheur formait une équipe avec Rey Mysterio appelée 'The Lucha Dragons' ?",
+      "answers": [
+        "Kalisto",
+        "Sin Cara",
+        "Santos Escobar",
+        "Ricochet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kalisto et Sin Cara formaient The Lucha Dragons."
+    },
+    {
+      "id": "wwe-d-7",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Quel catcheur a créé le personnage 'The Fiend' ?",
+      "answers": [
+        "Bray Wyatt",
+        "Finn Bálor",
+        "Aleister Black",
+        "Kane"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Fiend est une création de Bray Wyatt."
+    },
+    {
+      "id": "wwe-d-8",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Qui a remporté le premier Money in the Bank Ladder Match en 2005 ?",
+      "answers": [
+        "Edge",
+        "Chris Jericho",
+        "Randy Orton",
+        "Rob Van Dam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Edge a remporté le premier Money in the Bank."
+    },
+    {
+      "id": "wwe-d-9",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Quel catcheur est connu sous le surnom 'The Viper' ?",
+      "answers": [
+        "Randy Orton",
+        "Seth Rollins",
+        "Roman Reigns",
+        "AJ Styles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Randy Orton est surnommé The Viper."
+    },
+    {
+      "id": "wwe-d-10",
+      "category": "WWE",
+      "difficulty": "difficile",
+      "question": "Vrai ou faux : The Undertaker a participé à WrestleMania pendant plus de 20 éditions consécutives.",
+      "answers": [
+        "Vrai",
+        "Faux",
+        "Je ne sais pas",
+        "Aucune réponse"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Undertaker possède une longue série de participations à WrestleMania."
+    },
+    {
+      "id": "wwe-e-1",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel catcheur a remporté le tout premier match Royal Rumble en 1988 ?",
+      "answers": [
+        "Hulk Hogan",
+        "Jim Duggan",
+        "Andre The Giant",
+        "Ted DiBiase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jim Duggan a remporté le premier Royal Rumble en 1988."
+    },
+    {
+      "id": "wwe-e-2",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel était le nom du personnage de The Undertaker avant son arrivée à la WWE ?",
+      "answers": [
+        "Mean Mark Callous",
+        "The Punisher",
+        "The Deadman",
+        "The Reaper"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Avant la WWE, il était connu sous le nom de Mean Mark Callous à la WCW."
+    },
+    {
+      "id": "wwe-e-3",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Qui a été le premier champion WWE de l'histoire après la création du titre en 1963 ?",
+      "answers": [
+        "Bruno Sammartino",
+        "Buddy Rogers",
+        "Bob Backlund",
+        "Pedro Morales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Buddy Rogers est devenu le premier WWWF World Heavyweight Champion en 1963."
+    },
+    {
+      "id": "wwe-e-4",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel événement WWE a remplacé King of the Ring comme grand événement annuel en 2002 ?",
+      "answers": [
+        "No Mercy",
+        "Vengeance",
+        "SummerSlam",
+        "Survivor Series"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vengeance est devenu un événement majeur après la fin du format King of the Ring."
+    },
+    {
+      "id": "wwe-e-5",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel catcheur a remporté le plus de titres mondiaux reconnus par la WWE parmi ces choix ?",
+      "answers": [
+        "John Cena",
+        "Randy Orton",
+        "Triple H",
+        "Brock Lesnar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "John Cena a remporté 16 titres mondiaux reconnus par la WWE, égalant le record de Ric Flair."
+    },
+    {
+      "id": "wwe-e-6",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel était le nom du groupe formé par Seth Rollins, Roman Reigns et Dean Ambrose en 2012 ?",
+      "answers": [
+        "Evolution",
+        "The Shield",
+        "The Nexus",
+        "The Corre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Seth Rollins, Roman Reigns et Dean Ambrose formaient The Shield."
+    },
+    {
+      "id": "wwe-e-7",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel catcheur a utilisé le surnom 'The Rated-R Superstar' ?",
+      "answers": [
+        "Edge",
+        "Christian",
+        "Jeff Hardy",
+        "Matt Hardy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Edge est connu sous le surnom The Rated-R Superstar."
+    },
+    {
+      "id": "wwe-e-8",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Vrai ou faux : Ric Flair a remporté le Royal Rumble 1992.",
+      "answers": [
+        "Vrai",
+        "Faux",
+        "Peut-être",
+        "Impossible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ric Flair a remporté le Royal Rumble 1992 et le championnat WWE grâce au match."
+    },
+    {
+      "id": "wwe-e-9",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel catcheur est devenu le plus jeune champion WWE de l'histoire en 2002 ?",
+      "answers": [
+        "Randy Orton",
+        "Brock Lesnar",
+        "John Cena",
+        "Batista"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brock Lesnar est devenu champion WWE à 25 ans en 2002."
+    },
+    {
+      "id": "wwe-e-10",
+      "category": "WWE",
+      "difficulty": "expert",
+      "question": "Quel match est considéré comme l'un des plus célèbres Hell in a Cell de l'histoire de la WWE ?",
+      "answers": [
+        "Undertaker vs Shawn Michaels à Badd Blood 1997",
+        "Cena vs Orton à SummerSlam",
+        "Rock vs Austin à WrestleMania",
+        "Triple H vs Batista à Backlash"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le match Undertaker contre Shawn Michaels à Badd Blood 1997 est un Hell in a Cell historique."
+    },
+
+    {
+      "id": "melange-f-1",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Quelle est la capitale de la France ?",
+      "answers": [
+        "Paris",
+        "Londres",
+        "Madrid",
+        "Rome"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Paris est la capitale de la France."
+    },
+    {
+      "id": "melange-f-2",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Combien y a-t-il de continents sur Terre ?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "explanation": "On compte généralement 7 continents."
+    },
+    {
+      "id": "melange-f-3",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Quel animal est connu comme le roi de la jungle ?",
+      "answers": [
+        "Lion",
+        "Tigre",
+        "Éléphant",
+        "Ours"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le lion est souvent appelé le roi de la jungle."
+    },
+    {
+      "id": "melange-f-4",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Quelle planète est surnommée la planète rouge ?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturne",
+        "Vénus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mars est appelée la planète rouge à cause de sa couleur."
+    },
+    {
+      "id": "melange-f-5",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Combien font 5 + 5 ?",
+      "answers": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "5 + 5 = 10."
+    },
+    {
+      "id": "melange-f-6",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Quel appareil permet de naviguer sur Internet ?",
+      "answers": [
+        "Navigateur web",
+        "Calculatrice",
+        "Imprimante",
+        "Scanner"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un navigateur web permet d'accéder aux sites Internet."
+    },
+    {
+      "id": "melange-f-7",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Quel sport utilise un ballon rond et se joue avec les pieds ?",
+      "answers": [
+        "Football",
+        "Basketball",
+        "Tennis",
+        "Natation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le football se joue principalement avec les pieds."
+    },
+    {
+      "id": "melange-f-8",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Quel est le symbole chimique de l'eau ?",
+      "answers": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'eau est composée de deux atomes d'hydrogène et un atome d'oxygène."
+    },
+    {
+      "id": "melange-f-9",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Quel est le plus grand océan du monde ?",
+      "answers": [
+        "Océan Atlantique",
+        "Océan Indien",
+        "Océan Pacifique",
+        "Océan Arctique"
+      ],
+      "correctAnswer": 2,
+      "explanation": "L'océan Pacifique est le plus grand océan."
+    },
+    {
+      "id": "melange-f-10",
+      "category": "Mélange",
+      "difficulty": "facile",
+      "question": "Vrai ou faux : Un ordinateur possède un processeur.",
+      "answers": [
+        "Vrai",
+        "Faux",
+        "Peut-être",
+        "Je ne sais pas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le processeur est un composant principal d'un ordinateur."
+    },
+    {
+      "id": "melange-m-1",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Quel pays a remporté la Coupe du Monde de football 2022 ?",
+      "answers": [
+        "France",
+        "Argentine",
+        "Brésil",
+        "Allemagne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'Argentine a remporté la Coupe du Monde 2022."
+    },
+    {
+      "id": "melange-m-2",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Qui a écrit le roman 'Les Misérables' ?",
+      "answers": [
+        "Victor Hugo",
+        "Molière",
+        "Jules Verne",
+        "Albert Camus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Victor Hugo est l'auteur des Misérables."
+    },
+    {
+      "id": "melange-m-3",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Quel langage est principalement utilisé pour créer des pages web ?",
+      "answers": [
+        "HTML",
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "correctAnswer": 0,
+      "explanation": "HTML sert à structurer les pages web."
+    },
+    {
+      "id": "melange-m-4",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Quel est le plus grand pays du monde en superficie ?",
+      "answers": [
+        "Canada",
+        "Chine",
+        "Russie",
+        "États-Unis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Russie est le plus grand pays du monde par superficie."
+    },
+    {
+      "id": "melange-m-5",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Quel scientifique a développé la théorie de la relativité ?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galilée",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Albert Einstein est à l'origine de la théorie de la relativité."
+    },
+    {
+      "id": "melange-m-6",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Combien de joueurs composent une équipe de football sur le terrain ?",
+      "answers": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Une équipe de football possède 11 joueurs sur le terrain."
+    },
+    {
+      "id": "melange-m-7",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Quel est le système d'exploitation développé par Google pour les smartphones ?",
+      "answers": [
+        "Windows",
+        "Android",
+        "iOS",
+        "Linux"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Android est le système mobile développé par Google."
+    },
+    {
+      "id": "melange-m-8",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Quelle est la monnaie utilisée au Japon ?",
+      "answers": [
+        "Dollar",
+        "Euro",
+        "Yen",
+        "Won"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le yen est la monnaie officielle du Japon."
+    },
+    {
+      "id": "melange-m-9",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Quel organe du corps humain pompe le sang ?",
+      "answers": [
+        "Poumon",
+        "Cerveau",
+        "Cœur",
+        "Foie"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le cœur assure la circulation du sang."
+    },
+    {
+      "id": "melange-m-10",
+      "category": "Mélange",
+      "difficulty": "moyen",
+      "question": "Vrai ou faux : La lumière voyage plus vite que le son.",
+      "answers": [
+        "Vrai",
+        "Faux",
+        "Les deux sont égaux",
+        "Impossible à savoir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La lumière se déplace beaucoup plus rapidement que le son."
+    },
+    {
+      "id": "melange-d-1",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du plus grand désert chaud du monde ?",
+      "answers": [
+        "Désert du Sahara",
+        "Désert de Gobi",
+        "Désert d'Atacama",
+        "Désert d'Arabie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le Sahara est le plus grand désert chaud du monde."
+    },
+    {
+      "id": "melange-d-2",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel inventeur est associé au développement du téléphone moderne ?",
+      "answers": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Albert Einstein"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alexander Graham Bell est souvent crédité pour l'invention du téléphone."
+    },
+    {
+      "id": "melange-d-3",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quelle est la plus grande structure du corps humain ?",
+      "answers": [
+        "Le cerveau",
+        "La peau",
+        "Le cœur",
+        "Le foie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La peau est le plus grand organe du corps humain."
+    },
+    {
+      "id": "melange-d-4",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel pays a accueilli les premiers Jeux Olympiques modernes en 1896 ?",
+      "answers": [
+        "France",
+        "Grèce",
+        "Italie",
+        "Royaume-Uni"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les premiers Jeux Olympiques modernes ont eu lieu à Athènes en Grèce."
+    },
+    {
+      "id": "melange-d-5",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel est le symbole chimique de l'or ?",
+      "answers": [
+        "Ag",
+        "Au",
+        "Fe",
+        "O"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le symbole Au vient du latin 'Aurum'."
+    },
+    {
+      "id": "melange-d-6",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel joueur possède le record de buts en Ligue des Champions ?",
+      "answers": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Robert Lewandowski"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cristiano Ronaldo détient le record de buts en Ligue des Champions."
+    },
+    {
+      "id": "melange-d-7",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel système de numération utilise uniquement 0 et 1 ?",
+      "answers": [
+        "Décimal",
+        "Hexadécimal",
+        "Binaire",
+        "Romain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le système binaire utilise uniquement les chiffres 0 et 1."
+    },
+    {
+      "id": "melange-d-8",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel écrivain a créé le personnage Sherlock Holmes ?",
+      "answers": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Jules Verne",
+        "Victor Hugo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sherlock Holmes a été créé par Arthur Conan Doyle."
+    },
+    {
+      "id": "melange-d-9",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Vrai ou faux : La vitesse de la lumière est d'environ 300 000 km par seconde.",
+      "answers": [
+        "Vrai",
+        "Faux",
+        "Seulement dans l'eau",
+        "Impossible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La vitesse de la lumière dans le vide est environ 300 000 km/s."
+    },
+    {
+      "id": "melange-d-10",
+      "category": "Mélange",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du premier système d'exploitation Windows sorti en 1985 ?",
+      "answers": [
+        "Windows 95",
+        "Windows XP",
+        "Windows 1.0",
+        "Windows 3.1"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Windows 1.0 est sorti en 1985."
+    },
+    {
+      "id": "melange-e-1",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel mathématicien est considéré comme le père de la géométrie ?",
+      "answers": [
+        "Euclide",
+        "Pythagore",
+        "Archimède",
+        "Newton"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Euclide est considéré comme le père de la géométrie grâce à son ouvrage Les Éléments."
+    },
+    {
+      "id": "melange-e-2",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel est le nom du premier programme informatique considéré comme un algorithme destiné à être exécuté par une machine ?",
+      "answers": [
+        "Algorithme de Lovelace",
+        "Machine de Turing",
+        "ENIAC",
+        "FORTRAN"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ada Lovelace a écrit un algorithme pour la machine analytique de Charles Babbage."
+    },
+    {
+      "id": "melange-e-3",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel phénomène explique la séparation de la lumière blanche en plusieurs couleurs ?",
+      "answers": [
+        "Réflexion",
+        "Dispersion",
+        "Diffusion",
+        "Conduction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dispersion sépare la lumière blanche en différentes couleurs comme dans un arc-en-ciel."
+    },
+    {
+      "id": "melange-e-4",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel philosophe grec était le maître d'Alexandre le Grand ?",
+      "answers": [
+        "Socrate",
+        "Platon",
+        "Aristote",
+        "Épicure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aristote a été le professeur d'Alexandre le Grand."
+    },
+    {
+      "id": "melange-e-5",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel protocole permet l'attribution automatique d'une adresse IP dans un réseau ?",
+      "answers": [
+        "DNS",
+        "DHCP",
+        "HTTP",
+        "FTP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DHCP attribue automatiquement les adresses IP aux appareils d'un réseau."
+    },
+    {
+      "id": "melange-e-6",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel scientifique a formulé les trois lois du mouvement et la loi de la gravitation universelle ?",
+      "answers": [
+        "Galilée",
+        "Isaac Newton",
+        "Einstein",
+        "Tesla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Isaac Newton a formulé les lois du mouvement et de la gravitation."
+    },
+    {
+      "id": "melange-e-7",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "answers": [
+        "Saturne",
+        "Jupiter",
+        "Neptune",
+        "Terre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jupiter est la plus grande planète du système solaire."
+    },
+    {
+      "id": "melange-e-8",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Vrai ou faux : Le langage Python a été créé par Guido van Rossum.",
+      "answers": [
+        "Vrai",
+        "Faux",
+        "Seulement en partie",
+        "Impossible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Guido van Rossum a créé le langage Python."
+    },
+    {
+      "id": "melange-e-9",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel événement historique a commencé en 1789 en France ?",
+      "answers": [
+        "La Révolution française",
+        "La Renaissance",
+        "La Guerre froide",
+        "La Révolution industrielle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Révolution française a commencé en 1789."
+    },
+    {
+      "id": "melange-e-10",
+      "category": "Mélange",
+      "difficulty": "expert",
+      "question": "Quel est le nom du réseau mondial reliant les ordinateurs entre eux ?",
+      "answers": [
+        "Internet",
+        "Bluetooth",
+        "USB",
+        "Intranet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Internet est le réseau mondial qui relie des milliards d'appareils."
+    },
+    {
+      "id": "informatique-f-1",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Que signifie l'acronyme HTML ?",
+      "answers": [
+        "HyperText Markup Language",
+        "High Transfer Machine Language",
+        "Hyper Tool Multi Language",
+        "Home Text Management Language"
+      ],
+      "correctAnswer": 0,
+      "explanation": "HTML signifie HyperText Markup Language, utilisé pour créer la structure des pages web."
+    },
+    {
+      "id": "informatique-f-2",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Quel appareil permet de déplacer le curseur sur un ordinateur ?",
+      "answers": [
+        "Clavier",
+        "Souris",
+        "Écran",
+        "Imprimante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La souris permet de déplacer le pointeur et d'interagir avec l'interface."
+    },
+    {
+      "id": "informatique-f-3",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Quel système d'exploitation est développé par Microsoft ?",
+      "answers": [
+        "Linux",
+        "Android",
+        "Windows",
+        "macOS"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Windows est le système d'exploitation créé par Microsoft."
+    },
+    {
+      "id": "informatique-f-4",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Quel élément stocke les fichiers sur un ordinateur ?",
+      "answers": [
+        "Disque dur",
+        "Processeur",
+        "Carte graphique",
+        "Ventilateur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le disque dur ou SSD sert à conserver les données."
+    },
+    {
+      "id": "informatique-f-5",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Que signifie CPU ?",
+      "answers": [
+        "Central Processing Unit",
+        "Computer Personal User",
+        "Control Program Unit",
+        "Central Power Utility"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le CPU est le processeur principal de l'ordinateur."
+    },
+    {
+      "id": "informatique-f-6",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Quel langage est principalement utilisé pour le style des pages web ?",
+      "answers": [
+        "CSS",
+        "HTML",
+        "Python",
+        "Java"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CSS permet de modifier l'apparence et la mise en page des sites web."
+    },
+    {
+      "id": "informatique-f-7",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Quel symbole est utilisé dans une adresse e-mail ?",
+      "answers": [
+        "#",
+        "@",
+        "&",
+        "%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le symbole @ sépare le nom d'utilisateur et le domaine."
+    },
+    {
+      "id": "informatique-f-8",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Quel logiciel permet de naviguer sur Internet ?",
+      "answers": [
+        "Navigateur web",
+        "Calculatrice",
+        "Antivirus",
+        "Bloc-notes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un navigateur web comme Chrome ou Firefox permet d'accéder aux sites Internet."
+    },
+    {
+      "id": "informatique-f-9",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Quel langage est connu comme langage de programmation simple pour débuter ?",
+      "answers": [
+        "Python",
+        "HTML",
+        "SQL",
+        "CSS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Python est souvent recommandé aux débutants grâce à sa syntaxe simple."
+    },
+    {
+      "id": "informatique-f-10",
+      "category": "Informatique",
+      "difficulty": "facile",
+      "question": "Que signifie USB ?",
+      "answers": [
+        "Universal Serial Bus",
+        "Ultra System Board",
+        "United Software Base",
+        "Universal Storage Box"
+      ],
+      "correctAnswer": 0,
+      "explanation": "USB signifie Universal Serial Bus, une norme de connexion pour les appareils."
+    },
+    {
+      "id": "informatique-m-1",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Que signifie l'acronyme RAM ?",
+      "answers": [
+        "Random Access Memory",
+        "Rapid Application Machine",
+        "Read Access Mode",
+        "Random Automatic Memory"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La RAM est une mémoire temporaire utilisée par l'ordinateur pour exécuter les programmes."
+    },
+    {
+      "id": "informatique-m-2",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel langage est principalement utilisé pour créer des bases de données relationnelles ?",
+      "answers": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "XML"
+      ],
+      "correctAnswer": 0,
+      "explanation": "SQL permet de gérer et manipuler les données dans les bases relationnelles."
+    },
+    {
+      "id": "informatique-m-3",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel protocole est utilisé pour sécuriser les sites web ?",
+      "answers": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HTTPS chiffre les communications entre le navigateur et le serveur."
+    },
+    {
+      "id": "informatique-m-4",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel est le rôle principal d'un système d'exploitation ?",
+      "answers": [
+        "Gérer le matériel et les logiciels",
+        "Créer uniquement des jeux",
+        "Augmenter la vitesse Internet",
+        "Remplacer le processeur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le système d'exploitation coordonne les ressources de l'ordinateur."
+    },
+    {
+      "id": "informatique-m-5",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel langage est utilisé pour développer des applications Android natives ?",
+      "answers": [
+        "Kotlin",
+        "HTML",
+        "CSS",
+        "SQL"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kotlin est aujourd'hui un langage officiel recommandé pour Android."
+    },
+    {
+      "id": "informatique-m-6",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel composant effectue principalement les calculs dans un ordinateur ?",
+      "answers": [
+        "Processeur",
+        "Clavier",
+        "Écran",
+        "Souris"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le processeur (CPU) réalise la majorité des opérations de calcul."
+    },
+    {
+      "id": "informatique-m-7",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel système de contrôle de version est très utilisé par les développeurs ?",
+      "answers": [
+        "Git",
+        "Word",
+        "Paint",
+        "Excel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Git permet de suivre les modifications du code source."
+    },
+    {
+      "id": "informatique-m-8",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel format est couramment utilisé pour échanger des données structurées ?",
+      "answers": [
+        "JSON",
+        "MP3",
+        "PNG",
+        "AVI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "JSON est un format léger utilisé notamment avec les API."
+    },
+    {
+      "id": "informatique-m-9",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel est le rôle d'une adresse IP ?",
+      "answers": [
+        "Identifier un appareil sur un réseau",
+        "Créer un mot de passe",
+        "Refroidir un ordinateur",
+        "Installer un logiciel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Une adresse IP identifie un appareil connecté à un réseau."
+    },
+    {
+      "id": "informatique-m-10",
+      "category": "Informatique",
+      "difficulty": "moyen",
+      "question": "Quel outil permet de compiler du code source ?",
+      "answers": [
+        "Compilateur",
+        "Navigateur",
+        "Antivirus",
+        "Explorateur de fichiers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un compilateur transforme le code source en programme exécutable."
+    },
+    {
+      "id": "informatique-d-1",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel principe permet à plusieurs objets de partager une même interface en programmation orientée objet ?",
+      "answers": [
+        "Polymorphisme",
+        "Compilation",
+        "Encapsulation",
+        "Débogage"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le polymorphisme permet d'utiliser une même interface avec différentes implémentations."
+    },
+    {
+      "id": "informatique-d-2",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel algorithme est utilisé pour trouver le plus court chemin dans un graphe pondéré ?",
+      "answers": [
+        "Algorithme de Dijkstra",
+        "Algorithme de tri rapide",
+        "Algorithme RSA",
+        "Algorithme de Huffman"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dijkstra calcule le chemin le plus court depuis un sommet vers les autres."
+    },
+    {
+      "id": "informatique-d-3",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Que signifie API en informatique ?",
+      "answers": [
+        "Application Programming Interface",
+        "Advanced Program Internet",
+        "Automatic Processing Input",
+        "Application Private Information"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Une API permet à des applications de communiquer entre elles."
+    },
+    {
+      "id": "informatique-d-4",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel modèle est utilisé pour organiser les communications réseau en 7 couches ?",
+      "answers": [
+        "Modèle OSI",
+        "Modèle MVC",
+        "Modèle TCP",
+        "Modèle BIOS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le modèle OSI décrit les communications réseau en sept couches."
+    },
+    {
+      "id": "informatique-d-5",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel langage est principalement utilisé pour développer le noyau Linux ?",
+      "answers": [
+        "C",
+        "Python",
+        "JavaScript",
+        "HTML"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le noyau Linux est principalement écrit en langage C."
+    },
+    {
+      "id": "informatique-d-6",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel protocole est utilisé pour transférer des fichiers sur un réseau ?",
+      "answers": [
+        "FTP",
+        "HTTP",
+        "DNS",
+        "SSH"
+      ],
+      "correctAnswer": 0,
+      "explanation": "FTP permet le transfert de fichiers entre un client et un serveur."
+    },
+    {
+      "id": "informatique-d-7",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel type de base de données utilise des collections de documents JSON ?",
+      "answers": [
+        "Base NoSQL orientée documents",
+        "Base relationnelle uniquement",
+        "Base graphique uniquement",
+        "Base temporaire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Les bases NoSQL orientées documents stockent souvent des données au format JSON."
+    },
+    {
+      "id": "informatique-d-8",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel mécanisme protège généralement les mots de passe stockés ?",
+      "answers": [
+        "Hachage",
+        "Compression",
+        "Défragmentation",
+        "Virtualisation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le hachage transforme un mot de passe en une valeur difficile à retrouver."
+    },
+    {
+      "id": "informatique-d-9",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel framework JavaScript est développé par Google ?",
+      "answers": [
+        "Angular",
+        "Laravel",
+        "Django",
+        "Spring"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Angular est un framework web maintenu par Google."
+    },
+    {
+      "id": "informatique-d-10",
+      "category": "Informatique",
+      "difficulty": "difficile",
+      "question": "Quel système permet d'exécuter plusieurs machines virtuelles sur un même serveur ?",
+      "answers": [
+        "Virtualisation",
+        "Cryptographie",
+        "Compression",
+        "Indexation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La virtualisation permet de créer plusieurs environnements virtuels sur une machine physique."
+    },
+    {
+      "id": "informatique-e-1",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel algorithme de chiffrement asymétrique utilise une paire de clés publique et privée ?",
+      "answers": [
+        "RSA",
+        "AES",
+        "SHA-256",
+        "MD5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "RSA utilise une clé publique pour chiffrer et une clé privée pour déchiffrer."
+    },
+    {
+      "id": "informatique-e-2",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quelle structure de données fonctionne selon le principe LIFO ?",
+      "answers": [
+        "Pile (Stack)",
+        "File (Queue)",
+        "Arbre",
+        "Table de hachage"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Une pile suit le principe Last In First Out."
+    },
+    {
+      "id": "informatique-e-3",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel protocole est utilisé pour résoudre un nom de domaine en adresse IP ?",
+      "answers": [
+        "DNS",
+        "FTP",
+        "SMTP",
+        "SSH"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DNS traduit les noms de domaine en adresses IP."
+    },
+    {
+      "id": "informatique-e-4",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel concept permet de créer plusieurs conteneurs isolés sur un même système ?",
+      "answers": [
+        "Conteneurisation",
+        "Compilation",
+        "Défragmentation",
+        "Encodage"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conteneurisation permet d'exécuter des applications isolées avec leurs dépendances."
+    },
+    {
+      "id": "informatique-e-5",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel langage est utilisé pour écrire principalement les smart contracts sur Ethereum ?",
+      "answers": [
+        "Solidity",
+        "C++",
+        "PHP",
+        "Swift"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Solidity est le langage principal utilisé pour les contrats intelligents Ethereum."
+    },
+    {
+      "id": "informatique-e-6",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quelle commande Git permet d'envoyer les modifications vers un dépôt distant ?",
+      "answers": [
+        "git push",
+        "git clone",
+        "git init",
+        "git status"
+      ],
+      "correctAnswer": 0,
+      "explanation": "git push envoie les commits locaux vers un dépôt distant."
+    },
+    {
+      "id": "informatique-e-7",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel mécanisme permet à un programme d'appeler une fonction automatiquement lorsqu'un événement arrive ?",
+      "answers": [
+        "Callback",
+        "Boucle infinie",
+        "Variable globale",
+        "Compilation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un callback est une fonction appelée après un événement ou une opération."
+    },
+    {
+      "id": "informatique-e-8",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel est le rôle principal d'un ordonnanceur dans un système d'exploitation ?",
+      "answers": [
+        "Gérer l'exécution des processus",
+        "Créer des fichiers",
+        "Modifier les images",
+        "Installer des pilotes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'ordonnanceur décide quel processus utilise le processeur."
+    },
+    {
+      "id": "informatique-e-9",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel paradigme de programmation est basé sur des fonctions sans état mutable ?",
+      "answers": [
+        "Programmation fonctionnelle",
+        "Programmation procédurale",
+        "Programmation machine",
+        "Programmation binaire"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La programmation fonctionnelle utilise principalement des fonctions pures."
+    },
+    {
+      "id": "informatique-e-10",
+      "category": "Informatique",
+      "difficulty": "expert",
+      "question": "Quel système de gestion de conteneurs est très utilisé en DevOps ?",
+      "answers": [
+        "Docker",
+        "Photoshop",
+        "Excel",
+        "PowerPoint"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Docker est une plateforme populaire pour créer et gérer des conteneurs."
+    }
+  ]
+}
