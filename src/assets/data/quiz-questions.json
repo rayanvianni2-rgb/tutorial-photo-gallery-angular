@@ -2391,6 +2391,1178 @@
       ],
       "correctAnswer": 0,
       "explanation": "Docker est une plateforme populaire pour créer et gérer des conteneurs."
+    },
+
+    {
+      "id": "acteurs-f-001",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue le rôle de Iron Man dans l'univers Marvel ?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-002",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue Jack Sparrow dans Pirates des Caraïbes ?",
+      "answers": [
+        "Johnny Depp",
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-003",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur incarne Harry Potter au cinéma ?",
+      "answers": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Tom Felton",
+        "Elijah Wood"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-004",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue Spider-Man dans les films récents de Marvel ?",
+      "answers": [
+        "Tom Holland",
+        "Andrew Garfield",
+        "Tobey Maguire",
+        "Chris Pratt"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-005",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur est connu pour le rôle de John Wick ?",
+      "answers": [
+        "Keanu Reeves",
+        "Jason Statham",
+        "Dwayne Johnson",
+        "Hugh Jackman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-006",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue Wolverine dans les films X-Men ?",
+      "answers": [
+        "Hugh Jackman",
+        "Ben Affleck",
+        "Ryan Reynolds",
+        "Christian Bale"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-007",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue Batman dans The Dark Knight ?",
+      "answers": [
+        "Christian Bale",
+        "Robert Pattinson",
+        "Michael Keaton",
+        "George Clooney"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-008",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue le personnage de Mr. Bean ?",
+      "answers": [
+        "Rowan Atkinson",
+        "Jim Carrey",
+        "Adam Sandler",
+        "Eddie Murphy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-009",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue le personnage de Deadpool ?",
+      "answers": [
+        "Ryan Reynolds",
+        "Ryan Gosling",
+        "Hugh Jackman",
+        "Chris Evans"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-f-010",
+      "category": "Acteurs",
+      "difficulty": "facile",
+      "question": "Quel acteur joue Ethan Hunt dans Mission Impossible ?",
+      "answers": [
+        "Tom Cruise",
+        "Matt Damon",
+        "Will Smith",
+        "Sylvester Stallone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-1",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Jack Dawson dans le film Titanic ?",
+      "answers": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Matt Damon",
+        "Johnny Depp"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-2",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Tony Stark dans les films Iron Man ?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-3",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Thor dans l'univers Marvel ?",
+      "answers": [
+        "Chris Hemsworth",
+        "Chris Evans",
+        "Tom Holland",
+        "Jeremy Renner"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-4",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue le Joker dans le film Joker (2019) ?",
+      "answers": [
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-5",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Neo dans la saga Matrix ?",
+      "answers": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Hugo Weaving",
+        "Tom Cruise"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-6",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Wolverine dans les films X-Men ?",
+      "answers": [
+        "Hugh Jackman",
+        "Ryan Reynolds",
+        "Patrick Stewart",
+        "Ian McKellen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-7",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur interprète John Wick au cinéma ?",
+      "answers": [
+        "Keanu Reeves",
+        "Jason Statham",
+        "Liam Neeson",
+        "Dwayne Johnson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-8",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Ethan Hunt dans Mission Impossible ?",
+      "answers": [
+        "Tom Cruise",
+        "Matt Damon",
+        "Will Smith",
+        "Ben Affleck"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-9",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Black Panther dans le film Black Panther (2018) ?",
+      "answers": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Idris Elba",
+        "Anthony Mackie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-m-10",
+      "category": "Acteurs",
+      "difficulty": "moyen",
+      "question": "Quel acteur joue Jack Sparrow dans Pirates des Caraïbes ?",
+      "answers": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Geoffrey Rush",
+        "Javier Bardem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-1",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur a joué le rôle du Professeur dans la série La Casa de Papel ?",
+      "answers": [
+        "Álvaro Morte",
+        "Pedro Alonso",
+        "Miguel Herrán",
+        "Jaime Lorente"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-2",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur joue le personnage de Patrick Bateman dans American Psycho ?",
+      "answers": [
+        "Christian Bale",
+        "Leonardo DiCaprio",
+        "Jake Gyllenhaal",
+        "Edward Norton"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-3",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur interprète le rôle de Hannibal Lecter dans Le Silence des agneaux ?",
+      "answers": [
+        "Anthony Hopkins",
+        "Mads Mikkelsen",
+        "Gary Oldman",
+        "Kevin Spacey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-4",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur joue le personnage de Forrest Gump ?",
+      "answers": [
+        "Tom Hanks",
+        "Robin Williams",
+        "Kevin Costner",
+        "Morgan Freeman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-5",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur joue Maximus dans le film Gladiator (2000) ?",
+      "answers": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Brad Pitt",
+        "Gerard Butler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-6",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur joue le personnage de Walter White dans Breaking Bad ?",
+      "answers": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Giancarlo Esposito",
+        "Bob Odenkirk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-7",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur joue le rôle de Aragorn dans Le Seigneur des Anneaux ?",
+      "answers": [
+        "Viggo Mortensen",
+        "Orlando Bloom",
+        "Sean Bean",
+        "Ian McKellen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-8",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur joue le personnage de Tony Montana dans Scarface (1983) ?",
+      "answers": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Jack Nicholson",
+        "Sylvester Stallone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-9",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur interprète le rôle de Neo dans Matrix Resurrections ?",
+      "answers": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Hugo Weaving",
+        "John Wick"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-d-10",
+      "category": "Acteurs",
+      "difficulty": "difficile",
+      "question": "Quel acteur joue le personnage de Jack Nicholson dans Batman (1989) ?",
+      "answers": [
+        "Jack Nicholson",
+        "Michael Keaton",
+        "Christian Bale",
+        "Val Kilmer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-1",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur a remporté l'Oscar du meilleur acteur pour le film Joker (2019) ?",
+      "answers": [
+        "Joaquin Phoenix",
+        "Leonardo DiCaprio",
+        "Christian Bale",
+        "Adam Driver"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-2",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur incarne le personnage de Vito Corleone jeune dans Le Parrain II ?",
+      "answers": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Marlon Brando",
+        "Joe Pesci"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-3",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur joue le rôle de Tyler Durden dans Fight Club ?",
+      "answers": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Matt Damon",
+        "Christian Bale"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-4",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur joue le personnage de Jordan Belfort dans Le Loup de Wall Street ?",
+      "answers": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Brad Pitt",
+        "Christian Bale"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-5",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur joue le personnage du Joker dans The Dark Knight (2008) ?",
+      "answers": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-6",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur interprète le personnage de Michael Corleone dans Le Parrain ?",
+      "answers": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Marlon Brando",
+        "James Caan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-7",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur joue le personnage de Travis Bickle dans Taxi Driver ?",
+      "answers": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Jack Nicholson",
+        "Dustin Hoffman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-8",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur interprète le personnage de Charles Chaplin dans le film Chaplin (1992) ?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Johnny Depp",
+        "Tom Hanks",
+        "Gary Oldman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-9",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur joue le personnage de Randle McMurphy dans Vol au-dessus d'un nid de coucou ?",
+      "answers": [
+        "Jack Nicholson",
+        "Gene Hackman",
+        "Dustin Hoffman",
+        "Morgan Freeman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "acteurs-e-10",
+      "category": "Acteurs",
+      "difficulty": "expert",
+      "question": "Quel acteur incarne le personnage de Daniel Plainview dans There Will Be Blood ?",
+      "answers": [
+        "Daniel Day-Lewis",
+        "Tom Hardy",
+        "Javier Bardem",
+        "Gary Oldman"
+      ],
+      "correctAnswer": 0
+    },
+
+    {
+      "id": "dbz-f-1",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Quel est le personnage principal de Dragon Ball Z ?",
+      "answers": [
+        "Son Goku",
+        "Vegeta",
+        "Piccolo",
+        "Gohan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-2",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Comment s'appelle le fils de Goku qui apparaît dans Dragon Ball Z ?",
+      "answers": [
+        "Gohan",
+        "Trunks",
+        "Goten",
+        "Krillin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-3",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Quel est le rival principal de Goku dans Dragon Ball Z ?",
+      "answers": [
+        "Vegeta",
+        "Freezer",
+        "Cell",
+        "Buu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-4",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Quelle transformation rend les cheveux de Goku dorés ?",
+      "answers": [
+        "Super Saiyan",
+        "Ultra Instinct",
+        "Kaioken",
+        "Super Saiyan Bleu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-5",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Comment s'appelle le méchant de la saga Namek ?",
+      "answers": [
+        "Freezer",
+        "Cell",
+        "Buu",
+        "Raditz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-6",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Sur quelle planète vivent les Nameks ?",
+      "answers": [
+        "Namek",
+        "Terre",
+        "Végéta",
+        "Kaio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-7",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Quel personnage peut utiliser le Kamehameha ?",
+      "answers": [
+        "Goku",
+        "Freezer",
+        "Cell",
+        "Babidi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-8",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Comment s'appelle la technique de fusion avec les boucles d'oreilles ?",
+      "answers": [
+        "Potara",
+        "Fusion Dance",
+        "Kaioken",
+        "Genkidama"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-9",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Quel est le nom du guerrier créé par le Dr Gero dans la saga Cell ?",
+      "answers": [
+        "Cell",
+        "Buu",
+        "Broly",
+        "Janemba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-f-10",
+      "category": "DBZ Sagas",
+      "difficulty": "facile",
+      "question": "Quel personnage est connu comme le prince des Saiyans ?",
+      "answers": [
+        "Vegeta",
+        "Goku",
+        "Gohan",
+        "Trunks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-1",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Dans quelle saga Goku affronte-t-il Freezer sur Namek ?",
+      "answers": [
+        "Saga Freezer",
+        "Saga Cell",
+        "Saga Buu",
+        "Saga Saiyan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-2",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel personnage atteint le premier le niveau Super Saiyan dans Dragon Ball Z ?",
+      "answers": [
+        "Goku",
+        "Vegeta",
+        "Gohan",
+        "Trunks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-3",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Qui entraîne Gohan pendant la période avant l'arrivée des Saiyans ?",
+      "answers": [
+        "Piccolo",
+        "Vegeta",
+        "Krillin",
+        "Yamcha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-4",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel est le nom du cyborg numéro 16 créé par le Dr Gero ?",
+      "answers": [
+        "C-16",
+        "C-17",
+        "C-18",
+        "C-19"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-5",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel personnage bat Cell lors du combat final de la saga Cell ?",
+      "answers": [
+        "Gohan",
+        "Goku",
+        "Vegeta",
+        "Trunks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-6",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel est le nom de la fusion entre Goku et Vegeta avec les Potaras ?",
+      "answers": [
+        "Vegetto",
+        "Gogeta",
+        "Gotenks",
+        "Broly"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-7",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel personnage absorbe les cyborgs C-17 et C-18 pour devenir parfait ?",
+      "answers": [
+        "Cell",
+        "Buu",
+        "Freezer",
+        "Dabura"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-8",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel guerrier fusionne avec Piccolo pendant la saga Cell ?",
+      "answers": [
+        "Kami",
+        "Nail",
+        "Dendé",
+        "Krilin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-9",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel est le nom du tournoi où Goku rencontre Majin Buu sous sa forme enfant ?",
+      "answers": [
+        "Tournoi mondial des arts martiaux",
+        "Tournoi de Cell",
+        "Tournoi des dieux",
+        "Tournoi intergalactique"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-m-10",
+      "category": "DBZ Sagas",
+      "difficulty": "moyen",
+      "question": "Quel personnage donne son énergie pour créer le Genkidama contre Majin Buu ?",
+      "answers": [
+        "Les habitants de la Terre",
+        "Les Saiyans uniquement",
+        "Les Nameks uniquement",
+        "Les cyborgs"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-1",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du père de Goku ?",
+      "answers": [
+        "Bardock",
+        "Paragus",
+        "Raditz",
+        "Nappa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-2",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel est le vrai nom de C-17 avant de devenir un cyborg ?",
+      "answers": [
+        "Lapis",
+        "Lazuli",
+        "Gero",
+        "Android"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-3",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel Kaioshin accompagne Goku et ses amis pendant la saga Buu ?",
+      "answers": [
+        "Shin",
+        "Beerus",
+        "Zamasu",
+        "Gowasu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-4",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel est le nom de la technique de Vegeta qui utilise une énorme explosion d'énergie ?",
+      "answers": [
+        "Final Flash",
+        "Big Bang Attack",
+        "Galick Gun",
+        "Final Explosion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-5",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel personnage élimine Freezer sur Terre après son retour ?",
+      "answers": [
+        "Trunks du futur",
+        "Goku",
+        "Vegeta",
+        "Gohan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-6",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du stade final de Cell ?",
+      "answers": [
+        "Cell Parfait",
+        "Cell Ultime",
+        "Super Cell",
+        "Cell Divin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-7",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel personnage utilise l'épée reçue par Tapion dans Dragon Ball Z ?",
+      "answers": [
+        "Trunks",
+        "Gohan",
+        "Goku",
+        "Vegeta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-8",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel guerrier Saiyan est le frère de Goku ?",
+      "answers": [
+        "Raditz",
+        "Bardock",
+        "Broly",
+        "Nappa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-9",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quelle technique Goku utilise pour se déplacer instantanément ?",
+      "answers": [
+        "Téléportation instantanée",
+        "Kaioken",
+        "Genkidama",
+        "Kamehameha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-d-10",
+      "category": "DBZ Sagas",
+      "difficulty": "difficile",
+      "question": "Quel personnage est le créateur des cyborgs de la saga Cell ?",
+      "answers": [
+        "Dr Gero",
+        "Babidi",
+        "Dabura",
+        "Bulma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-1",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel est le nom complet de Goku donné à sa naissance par les Saiyans ?",
+      "answers": [
+        "Kakarot",
+        "Bardock",
+        "Gokhan",
+        "Saiyan Son"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-2",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel est le nom du créateur de Majin Buu selon la légende de Dragon Ball Z ?",
+      "answers": [
+        "Bibidi",
+        "Babidi",
+        "Dabura",
+        "Buu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-3",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel est le nom du fils de Vegeta et Bulma venant du futur ?",
+      "answers": [
+        "Trunks",
+        "Goten",
+        "Bra",
+        "Tarble"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-4",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel personnage est absorbé par Buu pour obtenir une forme plus puissante avec Gotenks et Piccolo ?",
+      "answers": [
+        "Super Buu",
+        "Kid Buu",
+        "Fat Buu",
+        "Evil Buu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-5",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel est le nom du maître de Goku sur la planète Kaio ?",
+      "answers": [
+        "Kaio du Nord",
+        "Grand Kaio",
+        "Shin",
+        "Dendé"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-6",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quelle forme de Majin Buu est considérée comme la plus dangereuse ?",
+      "answers": [
+        "Kid Buu",
+        "Super Buu",
+        "Fat Buu",
+        "Evil Buu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-7",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel est le nom de la planète natale des Saiyans avant sa destruction ?",
+      "answers": [
+        "Planète Vegeta",
+        "Planète Namek",
+        "Terre",
+        "Planète Kaio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-8",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel personnage a créé les Dragon Balls de la Terre à l'origine ?",
+      "answers": [
+        "Kami",
+        "Dendé",
+        "Shenron",
+        "Kaio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-9",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel guerrier fusionné apparaît grâce à la danse de fusion entre Goku et Vegeta ?",
+      "answers": [
+        "Gogeta",
+        "Vegetto",
+        "Gotenks",
+        "Gohan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "dbz-e-10",
+      "category": "DBZ Sagas",
+      "difficulty": "expert",
+      "question": "Quel personnage est responsable de la transformation de Vegeta en Majin Vegeta ?",
+      "answers": [
+        "Babidi",
+        "Bibidi",
+        "Dabura",
+        "Freezer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-1",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Qui est le personnage contrôlé par le joueur dans Minecraft par défaut ?",
+      "answers": [
+        "Steve",
+        "Alex",
+        "Herobrine",
+        "Notch"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-2",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel matériau faut-il utiliser pour fabriquer une pioche en bois ?",
+      "answers": [
+        "Planches de bois",
+        "Pierre",
+        "Fer",
+        "Diamant"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-3",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel est le monstre vert emblématique de Minecraft ?",
+      "answers": [
+        "Creeper",
+        "Zombie",
+        "Squelette",
+        "Enderman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-4",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Comment s'appelle la dimension où vit l'Ender Dragon ?",
+      "answers": [
+        "L'End",
+        "Le Nether",
+        "La Surface",
+        "Le Monde Rouge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-5",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel objet permet de fabriquer des outils et des objets dans Minecraft ?",
+      "answers": [
+        "Table de craft",
+        "Four",
+        "Coffre",
+        "Enclume"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-6",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel minerai permet de fabriquer des outils très résistants ?",
+      "answers": [
+        "Diamant",
+        "Charbon",
+        "Cuivre",
+        "Redstone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-7",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel animal donne de la laine dans Minecraft ?",
+      "answers": [
+        "Mouton",
+        "Vache",
+        "Cochon",
+        "Poulet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-8",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel objet faut-il utiliser pour dormir dans Minecraft ?",
+      "answers": [
+        "Un lit",
+        "Un coffre",
+        "Un four",
+        "Une table"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-9",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel monstre apparaît principalement la nuit dans Minecraft ?",
+      "answers": [
+        "Zombie",
+        "Villageois",
+        "Cheval",
+        "Golem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-f-10",
+      "category": "Minecraft",
+      "difficulty": "facile",
+      "question": "Quel est le but principal pour terminer Minecraft en mode survie ?",
+      "answers": [
+        "Battre l'Ender Dragon",
+        "Construire une maison",
+        "Trouver un village",
+        "Fabriquer une armure"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -1,6 +1,6 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 
-type QuizCategory = 'Football' | 'Histoire' | 'WWE' | 'Mélange' | 'Informatique';
+type QuizCategory = 'Football' | 'Histoire' | 'WWE' | 'Mélange' | 'Informatique' | 'Acteurs' | 'DBZ Sagas' | 'Minecraft' | 'Roblox';
 type Difficulty = 'facile' | 'moyen' | 'difficile' | 'expert';
 
 interface QuizQuestion {
@@ -31,12 +31,62 @@ interface CategoryCard {
   standalone: false,
 })
 export class Tab1Page implements OnInit, OnDestroy {
+
   readonly categories: CategoryCard[] = [
-    { name: 'Football', icon: 'football', color: 'football', description: 'Stades, joueurs et records' },
-    { name: 'Histoire', icon: 'library', color: 'history', description: 'Époques et civilisations' },
-    { name: 'WWE', icon: 'flash', color: 'wwe', description: 'Superstars et grands matchs' },
-    { name: 'Mélange', icon: 'color-wand', color: 'mixed', description: 'Un peu de tout' },
-    { name: 'Informatique', icon: 'code-slash', color: 'tech', description: 'Web, code et numérique' }
+    {
+      name: 'Football',
+      icon: 'football',
+      color: 'football',
+      description: 'Stades, joueurs et records'
+    },
+    {
+      name: 'Histoire',
+      icon: 'library',
+      color: 'history',
+      description: 'Époques et civilisations'
+    },
+    {
+      name: 'WWE',
+      icon: 'flash',
+      color: 'wwe',
+      description: 'Superstars et grands matchs'
+    },
+    {
+      name: 'Mélange',
+      icon: 'color-wand',
+      color: 'mixed',
+      description: 'Un peu de tout'
+    },
+    {
+      name: 'Informatique',
+      icon: 'code-slash',
+      color: 'tech',
+      description: 'Web, code et numérique'
+    },
+    {
+      name: 'Acteurs',
+      icon: 'videocam',
+      color: 'movies',
+      description: 'Cinéma et acteurs célèbres'
+    },
+    {
+      name: 'DBZ Sagas',
+      icon: 'flame',
+      color: 'dbz',
+      description: 'Dragon Ball Z et ses sagas'
+    },
+    {
+      name: 'Minecraft',
+      icon: 'cube',
+      color: 'minecraft',
+      description: 'Blocs, mobs et aventures'
+    },
+    {
+      name: 'Roblox',
+      icon: 'game-controller',
+      color: 'roblox',
+      description: 'Expériences, créateurs et gameplay'
+    }
   ];
 
   readonly difficulties: { name: Difficulty; label: string; color: string; icon: string }[] = [
@@ -146,7 +196,9 @@ export class Tab1Page implements OnInit, OnDestroy {
 
     // Mélange et prend 10 questions
     this.roundQuestions =
-      this.shuffle(selectedQuestions).slice(0, 10);
+    this.shuffle(selectedQuestions)
+      .slice(0, 10)
+      .map(question => this.shuffleAnswers(question));
 
 
     this.currentQuestionIndex = 0;
@@ -274,12 +326,17 @@ export class Tab1Page implements OnInit, OnDestroy {
     }
   }
 
-  private shuffle(questions: QuizQuestion[]): QuizQuestion[] {
-    const result = [...questions];
+  private shuffle<T>(array: T[]): T[] {
+    const result = [...array];
+
     for (let index = result.length - 1; index > 0; index--) {
       const randomIndex = Math.floor(Math.random() * (index + 1));
-      [result[index], result[randomIndex]] = [result[randomIndex], result[index]];
+      [result[index], result[randomIndex]] = [
+        result[randomIndex],
+        result[index]
+      ];
     }
+
     return result;
   }
 
@@ -313,5 +370,22 @@ export class Tab1Page implements OnInit, OnDestroy {
         question.difficulty === 'all')
       )
       .slice(0, 10);
+  }
+
+  private shuffleAnswers(question: QuizQuestion): QuizQuestion {
+    const answersWithIndex = question.answers.map((answer, index) => ({
+      answer,
+      index
+    }));
+
+    const shuffledAnswers = this.shuffle(answersWithIndex);
+
+    return {
+      ...question,
+      answers: shuffledAnswers.map(item => item.answer),
+      correctAnswer: shuffledAnswers.findIndex(
+        item => item.index === question.correctAnswer
+      )
+    };
   }
 }
