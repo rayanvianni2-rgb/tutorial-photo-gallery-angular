@@ -6,16 +6,22 @@
         LIVE
       </ion-badge>
     </ion-title>
+
     <ion-buttons slot="end">
       <ion-icon name="trophy" class="header-trophy"></ion-icon>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
+
 <ion-content [fullscreen]="true" class="quiz-content">
+
   <main class="quiz-shell">
+
     <section *ngIf="!isPlaying && !isFinished" class="selection-screen">
+
       <div class="stats-card">
+
         <div>
           <strong>{{ categories.length }}</strong>
           <span>Catégories</span>
@@ -30,136 +36,561 @@
           <strong>100%</strong>
           <span>Fun</span>
         </div>
+
       </div>
+
 
       <div class="welcome-copy">
-        <p class="eyebrow">15 secondes par question</p>
-        <p>Choisis une catégorie, puis prouve que tu connais le sujet.</p>
+
+        <p class="eyebrow">
+          15 secondes par question
+        </p>
+
+        <p>
+          Choisis une catégorie, puis prouve que tu connais le sujet.
+        </p>
+
       </div>
+
 
       <div *ngIf="isLoading" class="loading-state">
+
         <ion-spinner name="crescent"></ion-spinner>
-        <span>Préparation des questions…</span>
+
+        <span>
+          Préparation des questions…
+        </span>
+
       </div>
+
 
       <div *ngIf="loadingError" class="error-state">
+
         <ion-icon name="warning"></ion-icon>
-        <span>Les questions ne sont pas disponibles. Réessaie plus tard.</span>
+
+        <span>
+          Les questions ne sont pas disponibles.
+          Réessaie plus tard.
+        </span>
+
       </div>
 
-      <div *ngIf="!isLoading && !loadingError" class="category-grid">
+
+      <div
+        *ngIf="!isLoading && !loadingError"
+        class="category-grid">
+
+
         <button
           *ngFor="let category of categories"
           class="category-card {{ category.color }}"
           type="button"
           (click)="openDifficultySheet(category.name)">
-          <span class="category-icon"><ion-icon [name]="category.icon"></ion-icon></span>
-          <span class="category-name">{{ category.name }}</span>
-          <span class="category-description">{{ category.description }}</span>
-          <ion-icon name="arrow-forward" class="arrow-icon"></ion-icon>
+
+
+          <span class="category-icon">
+
+            <ion-icon [name]="category.icon"></ion-icon>
+
+          </span>
+
+
+          <span class="category-name">
+            {{ category.name }}
+          </span>
+
+
+          <span class="category-description">
+            {{ category.description }}
+          </span>
+
+
+          <ion-icon
+            name="arrow-forward"
+            class="arrow-icon">
+          </ion-icon>
+
+
         </button>
+
+
       </div>
+
     </section>
 
-    <section *ngIf="isPlaying && activeQuestion as question" class="game-screen">
+
+
+
+
+    <!-- QUIZ EN COURS -->
+
+    <section
+      *ngIf="isPlaying && activeQuestion as question"
+      class="game-screen">
+
+
       <div class="game-meta">
-        <button type="button" class="category-pill" (click)="restartQuiz()">
-          <ion-icon name="chevron-back"></ion-icon>
+
+
+        <button
+          type="button"
+          class="category-pill"
+          (click)="openExitSheet()">
+
+
+          <ion-icon name="arrow-back-outline"></ion-icon>
+
           {{ selectedCategory }}
+
+
         </button>
-        <div class="timer" [class.timer-warning]="timeLeft <= 5" [class.timer-danger]="timeLeft <= 3">
+
+
+
+        <div
+          class="timer"
+          [class.timer-warning]="timeLeft <= 5"
+          [class.timer-danger]="timeLeft <= 3">
+
+
           <ion-icon name="time-outline"></ion-icon>
-          <strong>{{ timeLeft }}s</strong>
+
+          <strong>
+            {{ timeLeft }}s
+          </strong>
+
+
         </div>
+
+
       </div>
+
+
+
+
 
       <div class="progress-copy">
 
+
         <span>
-          Question {{ currentQuestionIndex + 1 }} /
+
+          Question {{ currentQuestionIndex + 1 }}
+          /
           {{ roundQuestions.length }}
+
         </span>
 
+
+
         <div class="score-badge">
+
           <ion-icon name="star"></ion-icon>
+
           {{ score }}
+
         </div>
 
+
       </div>
-      <div class="progress-track"><span [style.width.%]="progress"></span></div>
+
+
+
+
+
+      <div class="progress-track">
+
+        <span [style.width.%]="progress"></span>
+
+      </div>
+
+
+
+
 
       <article class="question-card">
+
+
         <div class="question-icon">
+
           <ion-icon name="help-circle"></ion-icon>
+
         </div>
-        <span class="difficulty-tag {{ selectedDifficulty }}">{{ selectedDifficulty }}</span>
+
+
+
+        <span class="difficulty-tag {{ selectedDifficulty }}">
+
+          {{ selectedDifficulty }}
+
+        </span>
+
+
+
 
         <div class="welcome-icon">
+
           <ion-icon name="game-controller"></ion-icon>
+
         </div>
-        <h1>{{ question.question }}</h1>
+
+
+
+        <h1>
+
+          {{ question.question }}
+
+        </h1>
+
+
       </article>
 
-      <div class="answers" [class.answers-locked]="answered">
+
+
+
+
+      <div
+        class="answers"
+        [class.answers-locked]="answered">
+
+
         <button
+
           *ngFor="let answer of question.answers; index as index"
+
           type="button"
+
           class="answer-button {{ answerClass(index) }}"
+
           [disabled]="answered"
+
           (click)="chooseAnswer(index)">
-          <span class="answer-letter">{{ ['A', 'B', 'C', 'D'][index] }}</span>
-          <span>{{ answer }}</span>
-          <ion-icon *ngIf="answered && index === question.correctAnswer" name="checkmark-circle"></ion-icon>
-          <ion-icon *ngIf="answered && index === selectedAnswer && index !== question.correctAnswer" name="close-circle"></ion-icon>
+
+
+
+          <span>
+
+            {{ answer }}
+
+          </span>
+
+
+
+          <ion-icon
+            *ngIf="answered && index === question.correctAnswer"
+            name="checkmark-circle">
+          </ion-icon>
+
+
+
+          <ion-icon
+            *ngIf="answered && index === selectedAnswer && index !== question.correctAnswer"
+            name="close-circle">
+          </ion-icon>
+
+
         </button>
+
+
       </div>
 
-      <p *ngIf="feedback" class="feedback" [class.success]="selectedAnswer === question.correctAnswer">
+
+
+
+
+      <p
+        *ngIf="feedback"
+        class="feedback"
+        [class.success]="selectedAnswer === question.correctAnswer">
+
+
         {{ feedback }}
+
+
       </p>
+
+
     </section>
+
+
+
+
+
+    <!-- RESULTAT -->
 
     <section *ngIf="isFinished" class="result-screen">
-      <div class="result-icon"><ion-icon name="trophy"></ion-icon></div>
-      <p class="eyebrow">Partie terminée</p>
-      <h1>Bien joué !</h1>
-      <p class="result-score"><strong>{{ score }}</strong> / {{ roundQuestions.length }}</p>
-      <p>Tu as terminé le niveau <span>{{ selectedDifficulty }}</span> de la catégorie {{ selectedCategory }}.</p>
-      <button type="button" class="play-again pulse" (click)="restartQuiz()">
+
+
+      <div class="result-icon">
+
+        <ion-icon name="trophy"></ion-icon>
+
+      </div>
+
+
+
+      <p class="eyebrow">
+        Partie terminée
+      </p>
+
+
+
+      <h1>
+        Bien joué !
+      </h1>
+
+
+
+      <p class="result-score">
+
+        <strong>
+          {{ score }}
+        </strong>
+
+        /
+        {{ roundQuestions.length }}
+
+      </p>
+
+
+
+      <p>
+
+        Tu as terminé le niveau
+        <span>
+          {{ selectedDifficulty }}
+        </span>
+
+        de la catégorie
+        {{ selectedCategory }}.
+
+      </p>
+
+
+
+
+      <button
+        type="button"
+        class="play-again pulse"
+        (click)="restartQuiz()">
+
+
         <ion-icon name="refresh"></ion-icon>
+
         Rejouer
+
+
       </button>
+
+
     </section>
+
   </main>
 
+
+
+
+
+  <!-- MODAL DIFFICULTE -->
+
   <ion-modal
+
     [isOpen]="isDifficultySheetOpen"
+
     [initialBreakpoint]="0.54"
-    [breakpoints]="[0, 0.54]"
+
+    [breakpoints]="[0,0.54]"
+
     handle="true"
+
     (didDismiss)="closeDifficultySheet()">
+
+
     <ng-template>
+
+
       <ion-content class="difficulty-sheet">
+
+
         <div class="sheet-content">
-          <b><h2 style="text-align: center; font-family: sans-serif; margin-bottom: 10px;">DIFFICULTÉ</h2></b>
-          <b><p class="eyebrow" style="text-align: center; font-size: 1.2em; margin-top: -10px;">{{ selectedCategory }}</p></b>
+
+
+          <h2>
+            DIFFICULTÉ
+          </h2>
+
+
+
+          <p class="eyebrow">
+
+            {{ selectedCategory }}
+
+          </p>
+
+
+
+
           <button
+
             *ngFor="let difficulty of difficulties"
+
             type="button"
+
             class="difficulty-button {{ difficulty.color }}"
+
             (click)="startQuiz(difficulty.name)">
-            <span class="difficulty-icon"><ion-icon [name]="difficulty.icon"></ion-icon></span>
-            <span>{{ difficulty.label }}</span>
+
+
+
+            <span class="difficulty-icon">
+
+              <ion-icon [name]="difficulty.icon"></ion-icon>
+
+            </span>
+
+
+
+            <span>
+
+              {{ difficulty.label }}
+
+            </span>
+
+
+
             <ion-icon name="arrow-forward"></ion-icon>
+
+
+
           </button>
+
+
+
         </div>
+
+
       </ion-content>
+
+
     </ng-template>
+
+
   </ion-modal>
+
+
+
+
+
+  <!-- MODAL QUITTER QUIZ -->
+
+  <ion-modal
+
+    [isOpen]="isExitSheetOpen"
+
+    [initialBreakpoint]="0.42"
+
+    [breakpoints]="[0,0.42]"
+
+    handle="true"
+
+    (didDismiss)="closeExitSheet()">
+
+
+
+    <ng-template>
+
+
+      <ion-content class="exit-sheet">
+
+
+        <div class="sheet-content">
+
+
+          <ion-icon
+            name="help-circle-outline"
+            class="exit-icon">
+          </ion-icon>
+
+
+
+          <h2>
+            Quitter le quiz ?
+          </h2>
+
+
+
+          <p>
+            Ta progression sera perdue.
+          </p>
+
+
+
+
+
+          <button
+
+            type="button"
+
+            class="exit-continue"
+
+            (click)="continueQuiz()">
+
+
+
+            <ion-icon name="play-outline"></ion-icon>
+
+            Continuer
+
+
+          </button>
+
+
+
+
+
+          <button
+
+            type="button"
+
+            class="exit-quit"
+
+            (click)="exitQuiz()">
+
+
+
+            <ion-icon name="exit-outline"></ion-icon>
+
+            Quitter
+
+
+          </button>
+
+
+
+        </div>
+
+
+      </ion-content>
+
+
+    </ng-template>
+
+
+  </ion-modal>
+
+
+
 </ion-content>
 
+
+
+
+
 <div class="background-shapes">
+
   <div class="shape shape1"></div>
+
   <div class="shape shape2"></div>
+
   <div class="shape shape3"></div>
+
 </div>

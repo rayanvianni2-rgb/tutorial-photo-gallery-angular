@@ -943,3 +943,242 @@ transform:scale(1.05);
  rgba(139,92,246,.25);
 
 }
+
+.answers {
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+  margin-top:24px;
+}
+
+
+.answer-button {
+
+  position:relative;
+  overflow:hidden;
+
+  width:100%;
+  min-height:72px;
+
+  padding:18px 22px;
+
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+
+
+  border:none;
+  border-radius:24px;
+
+
+  color:white;
+
+  font-size:17px;
+
+  font-weight:700;
+
+  letter-spacing:.3px;
+
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255,255,255,.18),
+      rgba(255,255,255,.05)
+    );
+
+
+  backdrop-filter:blur(15px);
+
+
+  border:
+    1px solid rgba(255,255,255,.25);
+
+
+
+  box-shadow:
+
+    0 12px 30px rgba(0,0,0,.35),
+
+    inset 0 1px 0 rgba(255,255,255,.25);
+
+
+  transition:
+    transform .2s ease,
+    box-shadow .2s ease;
+
+
+}
+
+
+
+.answer-button::before {
+
+  content:"";
+
+  position:absolute;
+
+  inset:0;
+
+  background:
+    linear-gradient(
+      120deg,
+      transparent,
+      rgba(255,255,255,.25),
+      transparent
+    );
+
+
+  transform:translateX(-120%);
+
+  transition:.5s;
+
+}
+
+
+
+.answer-button:hover::before {
+
+  transform:translateX(120%);
+
+}
+
+
+
+.answer-button:active {
+
+  transform:scale(.94);
+
+  box-shadow:
+    0 5px 15px rgba(0,0,0,.4);
+
+}
+
+
+
+.answer-button span {
+
+  position:relative;
+
+  z-index:2;
+
+  text-align:left;
+
+}
+
+
+
+.answer-button ion-icon {
+
+  position:relative;
+
+  z-index:2;
+
+  font-size:32px;
+
+}
+
+
+
+/* bonne réponse */
+
+.answer-button.is-correct {
+
+  background:
+
+    linear-gradient(
+      135deg,
+      #00d68f,
+      #00a86b
+    );
+
+
+  animation:
+    correctPulse .5s ease;
+
+
+  box-shadow:
+
+    0 0 25px rgba(0,214,143,.6);
+
+}
+
+
+
+/* mauvaise réponse */
+
+.answer-button.is-wrong {
+
+  background:
+
+    linear-gradient(
+      135deg,
+      #ff5c6c,
+      #d63031
+    );
+
+
+  animation:
+    shake .4s ease;
+
+
+  box-shadow:
+
+    0 0 25px rgba(255,92,108,.6);
+
+}
+
+
+
+/* réponses désactivées */
+
+.answer-button.is-muted {
+
+  opacity:.35;
+
+  filter:blur(.3px);
+
+}
+
+
+
+/* animations */
+
+
+@keyframes correctPulse {
+
+  0% {
+    transform:scale(.9);
+  }
+
+
+  50% {
+    transform:scale(1.05);
+  }
+
+
+  100% {
+    transform:scale(1);
+  }
+
+}
+
+
+
+@keyframes shake {
+
+  0%,100% {
+    transform:translateX(0);
+  }
+
+
+  25% {
+    transform:translateX(-12px);
+  }
+
+
+  75% {
+    transform:translateX(12px);
+  }
+
+}

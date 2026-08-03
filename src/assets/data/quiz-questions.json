@@ -3434,6 +3434,7 @@
       ],
       "correctAnswer": 0
     },
+
     {
       "id": "minecraft-f-1",
       "category": "Minecraft",
@@ -3561,6 +3562,917 @@
         "Construire une maison",
         "Trouver un village",
         "Fabriquer une armure"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-1",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel objet permet d'allumer un portail vers le Nether ?",
+      "answers": [
+        "Briquet",
+        "Torche",
+        "Épée",
+        "Pioche"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-2",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Combien de blocs d'obsidienne minimum faut-il pour créer un portail du Nether ?",
+      "answers": [
+        "10",
+        "8",
+        "12",
+        "14"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-3",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel objet faut-il utiliser pour obtenir de la nourriture cuite rapidement ?",
+      "answers": [
+        "Four",
+        "Table de craft",
+        "Coffre",
+        "Enclume"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-4",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel minerai est nécessaire pour fabriquer une armure en fer ?",
+      "answers": [
+        "Fer",
+        "Or",
+        "Diamant",
+        "Charbon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-5",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel mob peut se téléporter dans Minecraft ?",
+      "answers": [
+        "Enderman",
+        "Creeper",
+        "Zombie",
+        "Araignée"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-6",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel objet permet de fabriquer des potions ?",
+      "answers": [
+        "Alambic",
+        "Four",
+        "Enclume",
+        "Table de craft"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-7",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel animal peut être apprivoisé avec des os ?",
+      "answers": [
+        "Loup",
+        "Chat",
+        "Cheval",
+        "Renard"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-8",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel objet permet de trouver un village ou une structure avec une commande de localisation ?",
+      "answers": [
+        "Commande /locate",
+        "Boussole",
+        "Carte",
+        "Horloge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-9",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel matériau est nécessaire pour fabriquer une table d'enchantement ?",
+      "answers": [
+        "Diamant",
+        "Fer",
+        "Or",
+        "Cuivre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-m-10",
+      "category": "Minecraft",
+      "difficulty": "moyen",
+      "question": "Quel objet est utilisé pour améliorer les objets avec des enchantements ?",
+      "answers": [
+        "Table d'enchantement",
+        "Four",
+        "Coffre",
+        "Fumoir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-1",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel objet est nécessaire pour activer un portail de l'End ?",
+      "answers": [
+        "Œil de l'Ender",
+        "Perle de l'Ender",
+        "Bâton de Blaze",
+        "Cristal de l'End"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-2",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel matériau faut-il combiner avec une perle de l'Ender pour créer un œil de l'Ender ?",
+      "answers": [
+        "Poudre de Blaze",
+        "Poudre de Redstone",
+        "Poudre d'os",
+        "Charbon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-3",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel mob laisse tomber une barre de Blaze ?",
+      "answers": [
+        "Blaze",
+        "Ghast",
+        "Wither",
+        "Piglin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-4",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel boss est invoqué avec trois crânes de Wither et du sable des âmes ?",
+      "answers": [
+        "Wither",
+        "Ender Dragon",
+        "Gardien",
+        "Ravageur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-5",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel enchantement permet à une pioche de récolter les blocs sans les casser directement ?",
+      "answers": [
+        "Toucher de soie",
+        "Efficacité",
+        "Fortune",
+        "Solidité"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-6",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel objet permet de réparer et combiner des équipements enchantés ?",
+      "answers": [
+        "Enclume",
+        "Four",
+        "Table de craft",
+        "Fumoir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-7",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du boss final de Minecraft ?",
+      "answers": [
+        "Ender Dragon",
+        "Wither",
+        "Warden",
+        "Elder Guardian"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-8",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel minerai rare permet de fabriquer une balise avec une pyramide complète ?",
+      "answers": [
+        "Émeraude",
+        "Fer",
+        "Or",
+        "Cuivre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-9",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel mob protège les villages contre les attaques ?",
+      "answers": [
+        "Golem de fer",
+        "Villageois",
+        "Golem de neige",
+        "Ravageur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-d-10",
+      "category": "Minecraft",
+      "difficulty": "difficile",
+      "question": "Quel objet permet de créer une balise (Beacon) ?",
+      "answers": [
+        "Étoile du Nether",
+        "Cristal de l'End",
+        "Diamant",
+        "Perle de l'Ender"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-1",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel est le nom du créateur principal de Minecraft ?",
+      "answers": [
+        "Markus Persson (Notch)",
+        "Jens Bergensten",
+        "Steve Wozniak",
+        "Shigeru Miyamoto"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-2",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel est le nom du premier boss ajouté officiellement dans Minecraft ?",
+      "answers": [
+        "Ender Dragon",
+        "Wither",
+        "Warden",
+        "Elder Guardian"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-3",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel effet donne une pomme dorée enchantée dans Minecraft ?",
+      "answers": [
+        "Plusieurs effets de bonus puissants",
+        "Une vitesse permanente",
+        "La possibilité de voler",
+        "Une téléportation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-4",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel bloc est utilisé pour créer un portail du Nether ?",
+      "answers": [
+        "Obsidienne",
+        "Pierre noire",
+        "Basalte",
+        "Quartz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-5",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel mob peut invoquer des vexes dans Minecraft ?",
+      "answers": [
+        "Évocateur",
+        "Pillards",
+        "Gardien",
+        "Sorcière"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-6",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel est le nom de l'enchantement permettant de respirer plus longtemps sous l'eau ?",
+      "answers": [
+        "Respiration",
+        "Aqua Affinité",
+        "Apnée",
+        "Hydratation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-7",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel bloc permet de transformer un villageois en bibliothécaire ?",
+      "answers": [
+        "Pupitre",
+        "Table d'enchantement",
+        "Table de craft",
+        "Enclume"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-8",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel est le nom du biome où l'on trouve souvent des manoirs de forêt ?",
+      "answers": [
+        "Forêt sombre",
+        "Jungle",
+        "Taïga",
+        "Plaines"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-9",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel objet est nécessaire pour fabriquer une table d'enchantement ?",
+      "answers": [
+        "Livre, diamants et obsidienne",
+        "Fer, bois et pierre",
+        "Or, redstone et verre",
+        "Émeraude et quartz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "minecraft-e-10",
+      "category": "Minecraft",
+      "difficulty": "expert",
+      "question": "Quel monstre est apparu dans la mise à jour Minecraft 1.19 ?",
+      "answers": [
+        "Warden",
+        "Creeper",
+        "Enderman",
+        "Blaze"
+      ],
+      "correctAnswer": 0
+    },
+
+    {
+      "id": "roblox-f-1",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Qui a créé la plateforme Roblox ?",
+      "answers": [
+        "David Baszucki",
+        "Markus Persson",
+        "Jens Bergensten",
+        "Tim Sweeney"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-2",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on les personnages des joueurs dans Roblox ?",
+      "answers": [
+        "Avatars",
+        "Mobs",
+        "Skins",
+        "Héros"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-3",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Quelle monnaie virtuelle utilise Roblox ?",
+      "answers": [
+        "Robux",
+        "Coins",
+        "Diamants",
+        "V-Bucks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-4",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Quel outil permet de créer des jeux Roblox ?",
+      "answers": [
+        "Roblox Studio",
+        "Unity",
+        "Unreal Engine",
+        "Game Maker"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-5",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Comment appelle-t-on les jeux créés sur Roblox ?",
+      "answers": [
+        "Expériences",
+        "Serveurs",
+        "Mondes Minecraft",
+        "Niveaux"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-6",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Quel est le nom du langage utilisé dans Roblox Studio ?",
+      "answers": [
+        "Lua",
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-7",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Quel jeu Roblox est connu pour l'élevage et l'adoption d'animaux ?",
+      "answers": [
+        "Adopt Me!",
+        "Blox Fruits",
+        "Arsenal",
+        "Brookhaven"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-8",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Sur quelles plateformes peut-on jouer à Roblox ?",
+      "answers": [
+        "PC, mobile et consoles",
+        "Uniquement PC",
+        "Uniquement PlayStation",
+        "Uniquement mobile"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-9",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Quel objet représente souvent le logo de Roblox ?",
+      "answers": [
+        "Un carré avec un trou",
+        "Une étoile",
+        "Un cercle",
+        "Une épée"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-f-10",
+      "category": "Roblox",
+      "difficulty": "facile",
+      "question": "Quel type de contenu les joueurs peuvent-ils créer sur Roblox ?",
+      "answers": [
+        "Des jeux",
+        "Des films uniquement",
+        "Des chansons uniquement",
+        "Des consoles"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-1",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel jeu Roblox est connu pour ses combats avec des fruits donnant des pouvoirs ?",
+      "answers": [
+        "Blox Fruits",
+        "Tower of Hell",
+        "Piggy",
+        "MeepCity"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-2",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel est le nom du système permettant aux créateurs de gagner de l'argent sur Roblox ?",
+      "answers": [
+        "DevEx",
+        "Roblox Plus",
+        "Game Pass",
+        "Creator Box"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-3",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel jeu Roblox est célèbre pour ses parcours d'obstacles ?",
+      "answers": [
+        "Tower of Hell",
+        "Adopt Me!",
+        "Brookhaven",
+        "Blox Fruits"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-4",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel élément permet d'acheter des objets dans Roblox ?",
+      "answers": [
+        "Robux",
+        "XP",
+        "Coins Minecraft",
+        "V-Bucks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-5",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel logiciel est utilisé pour développer des expériences Roblox ?",
+      "answers": [
+        "Roblox Studio",
+        "Visual Studio",
+        "Photoshop",
+        "Blender uniquement"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-6",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel type de jeu est Brookhaven sur Roblox ?",
+      "answers": [
+        "Jeu de rôle",
+        "Course automobile",
+        "Combat spatial",
+        "Puzzle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-7",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel langage de programmation utilise Roblox Studio ?",
+      "answers": [
+        "Lua",
+        "JavaScript",
+        "C#",
+        "Ruby"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-8",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Comment appelle-t-on les créateurs de jeux Roblox ?",
+      "answers": [
+        "Développeurs",
+        "Joueurs uniquement",
+        "Modérateurs",
+        "Streamers"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-9",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel jeu Roblox est basé sur la survie avec un cochon comme ennemi principal ?",
+      "answers": [
+        "Piggy",
+        "Arsenal",
+        "Jailbreak",
+        "Doors"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-m-10",
+      "category": "Roblox",
+      "difficulty": "moyen",
+      "question": "Quel élément peut être vendu par les créateurs sur Roblox ?",
+      "answers": [
+        "Game Pass",
+        "Console",
+        "Carte graphique",
+        "Ordinateur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-1",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "En quelle année Roblox a-t-il été officiellement lancé ?",
+      "answers": [
+        "2006",
+        "2010",
+        "2004",
+        "2015"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-2",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel était l'ancien nom de Roblox avant son lancement officiel ?",
+      "answers": [
+        "DynaBlocks",
+        "BlockWorld",
+        "MegaBlocks",
+        "RoboPlay"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-3",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel est le nom de l'entreprise qui possède Roblox ?",
+      "answers": [
+        "Roblox Corporation",
+        "Microsoft Studios",
+        "Epic Games",
+        "Valve Corporation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-4",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du fondateur principal de Roblox ?",
+      "answers": [
+        "David Baszucki",
+        "Jens Bergensten",
+        "Mark Zuckerberg",
+        "Gabe Newell"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-5",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel système permet aux joueurs de créer leurs propres objets Roblox ?",
+      "answers": [
+        "Roblox Studio",
+        "Roblox Market",
+        "Avatar Builder",
+        "Game Creator Pro"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-6",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel jeu Roblox est connu pour ses combats inspirés des animés et ses fruits spéciaux ?",
+      "answers": [
+        "Blox Fruits",
+        "Doors",
+        "Jailbreak",
+        "Piggy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-7",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel langage est utilisé pour programmer les scripts Roblox ?",
+      "answers": [
+        "Lua",
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-8",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel jeu Roblox est connu pour ses portes mystérieuses et ses monstres ?",
+      "answers": [
+        "DOORS",
+        "Brookhaven",
+        "Arsenal",
+        "MeepCity"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-9",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel objet virtuel représente la monnaie principale de Roblox ?",
+      "answers": [
+        "Robux",
+        "Tickets",
+        "Coins",
+        "Points"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-d-10",
+      "category": "Roblox",
+      "difficulty": "difficile",
+      "question": "Quel type de contenu peut être publié par les développeurs sur Roblox ?",
+      "answers": [
+        "Des expériences jouables",
+        "Des consoles",
+        "Des films uniquement",
+        "Des applications mobiles"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-1",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel était le premier nom de Roblox avant de devenir Roblox ?",
+      "answers": [
+        "DynaBlocks",
+        "BlockLand",
+        "RoboWorld",
+        "GameBlocks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-2",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel est le nom du moteur utilisé par Roblox pour créer ses expériences ?",
+      "answers": [
+        "Roblox Engine",
+        "Unity Engine",
+        "Unreal Engine",
+        "Source Engine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-3",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel programme permet aux développeurs de tester leurs jeux avant publication ?",
+      "answers": [
+        "Roblox Studio",
+        "Roblox Player",
+        "Roblox Market",
+        "Creator Hub uniquement"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-4",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel système permet de transformer les Robux gagnés en argent réel pour certains développeurs ?",
+      "answers": [
+        "DevEx",
+        "Robux Exchange",
+        "Creator Coins",
+        "Game Cash"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-5",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel jeu Roblox est devenu célèbre pour son style de combat inspiré de One Piece ?",
+      "answers": [
+        "Blox Fruits",
+        "Adopt Me!",
+        "Tower of Hell",
+        "Piggy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-6",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel type de fichier est principalement utilisé pour les scripts Roblox ?",
+      "answers": [
+        "Scripts Lua",
+        "Scripts Python",
+        "Scripts Java",
+        "Scripts C++"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-7",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel jeu Roblox est connu pour ses vols et ses poursuites entre policiers et criminels ?",
+      "answers": [
+        "Jailbreak",
+        "Arsenal",
+        "Doors",
+        "Piggy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-8",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Comment appelle-t-on les créations publiées par les développeurs Roblox ?",
+      "answers": [
+        "Expériences",
+        "Applications",
+        "Films",
+        "Mods"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-9",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel élément permet de personnaliser l'apparence d'un avatar Roblox ?",
+      "answers": [
+        "Objets d'avatar",
+        "Blocs Minecraft",
+        "Cartes Pokémon",
+        "Mods externes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "roblox-e-10",
+      "category": "Roblox",
+      "difficulty": "expert",
+      "question": "Quel événement a permis à Roblox d'être disponible en bourse ?",
+      "answers": [
+        "Introduction en bourse en 2021",
+        "Création en 2006",
+        "Sortie mobile en 2012",
+        "Création de Robux en 2010"
       ],
       "correctAnswer": 0
     }
