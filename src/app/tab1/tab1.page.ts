@@ -198,8 +198,10 @@ export class Tab1Page implements OnInit, OnDestroy {
 
 
   private timer?: ReturnType<typeof setInterval>;
-
   private nextQuestionTimeout?: ReturnType<typeof setTimeout>;
+
+  private correctSound = new Audio('assets/sounds/correct.mp3');
+  private wrongSound = new Audio('assets/sounds/wrong.mp3');
 
 
 
@@ -420,12 +422,38 @@ export class Tab1Page implements OnInit, OnDestroy {
     this.prepareQuestion();
 
   }
+
+  private playSound(type: 'correct' | 'wrong'): void {
+
+    if (type === 'correct') {
+
+      this.correctSound.pause();
+      this.correctSound.currentTime = 0;
+
+      this.correctSound.play()
+        .catch(() => {});
+
+    } else {
+
+      this.wrongSound.pause();
+      this.wrongSound.currentTime = 0;
+
+      this.wrongSound.play()
+        .catch(() => {});
+
+    }
+
+  }
+
   chooseAnswer(answerIndex: number): void {
 
     const question = this.activeQuestion;
 
+
     if (!question || this.answered) {
+
       return;
+
     }
 
 
@@ -433,34 +461,45 @@ export class Tab1Page implements OnInit, OnDestroy {
 
     this.answered = true;
 
+
     this.stopTimer();
 
 
 
     if (answerIndex === question.correctAnswer) {
 
+
       this.money += 500;
+
+
+      this.playSound('correct');
+
 
       this.feedback = question.explanation
         ? 'Bonne réponse ! ' + question.explanation
         : 'Bonne réponse !';
 
 
+
     } else {
+
+
+      this.playSound('wrong');
+
 
       this.feedback =
         'La bonne réponse était : ' +
         question.answers[question.correctAnswer] +
         '.';
 
+
     }
+
 
 
     this.scheduleNextQuestion();
 
   }
-
-
 
   answerClass(answerIndex: number): string {
 
@@ -495,7 +534,6 @@ export class Tab1Page implements OnInit, OnDestroy {
 
 
   restartQuiz(): void {
-
     this.stopTimer();
 
     this.clearNextQuestionTimeout();
