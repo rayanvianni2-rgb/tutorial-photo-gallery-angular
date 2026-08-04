@@ -183,7 +183,7 @@ export class Tab1Page implements OnInit, OnDestroy {
 
   currentQuestionIndex = 0;
 
-  score = 0;
+  money = 0;
 
 
   timeLeft = 15;
@@ -351,7 +351,7 @@ export class Tab1Page implements OnInit, OnDestroy {
 
     this.currentQuestionIndex = 0;
 
-    this.score = 0;
+    this.money += 500;
 
 
     this.selectedAnswer = null;
@@ -400,7 +400,7 @@ export class Tab1Page implements OnInit, OnDestroy {
 
     this.currentQuestionIndex = 0;
 
-    this.score = 0;
+    this.money = 0;
 
 
     this.selectedAnswer = null;
@@ -439,7 +439,7 @@ export class Tab1Page implements OnInit, OnDestroy {
 
     if (answerIndex === question.correctAnswer) {
 
-      this.score++;
+      this.money += 500;
 
       this.feedback = question.explanation
         ? 'Bonne réponse ! ' + question.explanation
@@ -516,7 +516,7 @@ export class Tab1Page implements OnInit, OnDestroy {
 
     this.currentQuestionIndex = 0;
 
-    this.score = 0;
+    this.money = 0;
 
 
     this.selectedAnswer = null;
