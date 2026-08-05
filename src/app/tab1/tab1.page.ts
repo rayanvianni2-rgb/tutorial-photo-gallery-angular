@@ -1,4 +1,5 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
+import { QuizHistoryService } from '../services/quiz-history.service';
 
 type QuizCategory =
   | 'Football'
@@ -45,7 +46,9 @@ interface CategoryCard {
   standalone: false,
 })
 export class Tab1Page implements OnInit, OnDestroy {
-
+  constructor(
+    private historyService: QuizHistoryService
+  ) {}
 
   readonly categories: CategoryCard[] = [
 
@@ -843,8 +846,17 @@ export class Tab1Page implements OnInit, OnDestroy {
         this.shuffleAnswers(question)
       );
 
-
+    this.historyService.addResult({
+      category: this.selectedCategory ?? 'Inconnu',
+      icon: 'game-controller-outline',
+      money: this.money,
+      difficulty: this.selectedDifficulty ?? 'Facile',
+      questions: this.questions.length,
+      date: new Date().toLocaleDateString(),
+      time: new Date().toLocaleTimeString([], {
+        hour: '2-digit',
+        minute: '2-digit'
+      })
+    });
   }
-
-
 }
