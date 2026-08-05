@@ -10,7 +10,9 @@ type QuizCategory =
   | 'Acteurs'
   | 'DBZ Sagas'
   | 'Minecraft'
-  | 'Roblox';
+  | 'Roblox'
+  | 'Pays'
+  | 'Naruto';
 
 type Difficulty =
   | 'facile'
@@ -47,7 +49,7 @@ interface CategoryCard {
 })
 export class Tab1Page implements OnInit, OnDestroy {
   constructor(
-    private historyService: QuizHistoryService
+    private quizHistory: QuizHistoryService
   ) {}
 
   readonly categories: CategoryCard[] = [
@@ -113,8 +115,21 @@ export class Tab1Page implements OnInit, OnDestroy {
       icon: 'game-controller',
       color: 'roblox',
       description: 'Expériences, créateurs et gameplay'
-    }
+    },
 
+    {
+      name: 'Pays',
+      icon: 'globe',
+      color: 'countries',
+      description: 'Drapeaux et le monde'
+    },
+
+    {
+      name: 'Naruto',
+      icon: 'flash',
+      color: 'naruto',
+      description: 'Ninja, villages et techniques'
+    }
   ];
 
 
@@ -175,7 +190,6 @@ export class Tab1Page implements OnInit, OnDestroy {
 
   selectedDifficulty: Difficulty | null = null;
 
-
   isPlaying = false;
 
   isFinished = false;
@@ -189,7 +203,7 @@ export class Tab1Page implements OnInit, OnDestroy {
   money = 0;
 
 
-  timeLeft = 15;
+  timeLeft = 20;
 
 
   selectedAnswer: number | null = null;
@@ -593,7 +607,7 @@ export class Tab1Page implements OnInit, OnDestroy {
     this.stopTimer();
 
 
-    this.timeLeft = 15;
+    this.timeLeft = 20;
 
 
     this.timer = setInterval(() => {
@@ -846,17 +860,12 @@ export class Tab1Page implements OnInit, OnDestroy {
         this.shuffleAnswers(question)
       );
 
-    this.historyService.addResult({
+    console.log('Sauvegarde quiz');
+    this.quizHistory.addQuiz({
       category: this.selectedCategory ?? 'Inconnu',
-      icon: 'game-controller-outline',
+      difficulty: this.selectedDifficulty ?? 'Inconnu',
       money: this.money,
-      difficulty: this.selectedDifficulty ?? 'Facile',
-      questions: this.questions.length,
-      date: new Date().toLocaleDateString(),
-      time: new Date().toLocaleTimeString([], {
-        hour: '2-digit',
-        minute: '2-digit'
-      })
+      date: new Date().toLocaleDateString()
     });
   }
 }

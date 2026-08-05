@@ -4475,6 +4475,1048 @@
         "Création de Robux en 2010"
       ],
       "correctAnswer": 0
+    },
+
+    {
+      "id": "pays-f-1",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Quelle est la capitale de la France ?",
+      "answers": [
+        "Paris",
+        "Londres",
+        "Madrid",
+        "Rome"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-2",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Dans quel pays se trouvent les pyramides de Gizeh ?",
+      "answers": [
+        "Égypte",
+        "Maroc",
+        "Algérie",
+        "Tunisie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-3",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Quel est le plus grand pays du monde par superficie ?",
+      "answers": [
+        "Russie",
+        "Canada",
+        "Chine",
+        "États-Unis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-4",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Dans quel pays se trouve la Tour Eiffel ?",
+      "answers": [
+        "France",
+        "Italie",
+        "Espagne",
+        "Belgique"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-5",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Quel pays est célèbre pour ses kangourous ?",
+      "answers": [
+        "Australie",
+        "Nouvelle-Zélande",
+        "Afrique du Sud",
+        "Inde"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-6",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Quel pays a pour capitale Tokyo ?",
+      "answers": [
+        "Japon",
+        "Chine",
+        "Corée du Sud",
+        "Thaïlande"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-7",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Dans quel pays se trouve la ville de New York ?",
+      "answers": [
+        "États-Unis",
+        "Canada",
+        "Mexique",
+        "Brésil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-8",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Quel pays est connu pour la pizza et les pâtes ?",
+      "answers": [
+        "Italie",
+        "Grèce",
+        "Portugal",
+        "France"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-9",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Quel est le plus grand pays d'Afrique par superficie ?",
+      "answers": [
+        "Algérie",
+        "Égypte",
+        "Nigeria",
+        "Maroc"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-f-10",
+      "category": "Pays",
+      "difficulty": "facile",
+      "question": "Dans quel pays se trouve le Christ Rédempteur ?",
+      "answers": [
+        "Brésil",
+        "Argentine",
+        "Chili",
+        "Pérou"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-1",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quelle est la capitale du Canada ?",
+      "answers": [
+        "Ottawa",
+        "Toronto",
+        "Montréal",
+        "Vancouver"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-2",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quel pays possède la plus grande population au monde en 2026 ?",
+      "answers": [
+        "Inde",
+        "Chine",
+        "États-Unis",
+        "Indonésie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-3",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "answers": [
+        "Pérou",
+        "Bolivie",
+        "Chili",
+        "Équateur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-4",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quelle est la capitale de l'Australie ?",
+      "answers": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-5",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quel pays est surnommé le Pays du Soleil-Levant ?",
+      "answers": [
+        "Japon",
+        "Corée du Sud",
+        "Chine",
+        "Thaïlande"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-6",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quel est le plus petit pays du monde ?",
+      "answers": [
+        "Vatican",
+        "Monaco",
+        "Saint-Marin",
+        "Liechtenstein"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-7",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Dans quel pays se trouve la ville de Dubaï ?",
+      "answers": [
+        "Émirats arabes unis",
+        "Qatar",
+        "Arabie saoudite",
+        "Koweït"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-8",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quel pays est traversé par le Nil sur la plus grande partie de son parcours ?",
+      "answers": [
+        "Égypte",
+        "Soudan",
+        "Éthiopie",
+        "Ouganda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-9",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quelle est la capitale du Brésil ?",
+      "answers": [
+        "Brasília",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Salvador"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-m-10",
+      "category": "Pays",
+      "difficulty": "moyen",
+      "question": "Quel pays est célèbre pour les fjords ?",
+      "answers": [
+        "Norvège",
+        "Suède",
+        "Finlande",
+        "Danemark"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-1",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quelle est la capitale du Kazakhstan ?",
+      "answers": [
+        "Astana",
+        "Almaty",
+        "Bichkek",
+        "Tachkent"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-2",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quel pays est entièrement enclavé à l'intérieur de l'Afrique du Sud ?",
+      "answers": [
+        "Lesotho",
+        "Eswatini",
+        "Botswana",
+        "Namibie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-3",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quelle est la capitale de la Mongolie ?",
+      "answers": [
+        "Oulan-Bator",
+        "Astana",
+        "Pékin",
+        "Hanoï"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-4",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quel pays possède le plus grand nombre de fuseaux horaires ?",
+      "answers": [
+        "France",
+        "Russie",
+        "États-Unis",
+        "Canada"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-5",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "answers": [
+        "Wellington",
+        "Auckland",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-6",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+      "answers": [
+        "Brésil",
+        "Argentine",
+        "Pérou",
+        "Colombie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-7",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Dans quel pays se trouve le mont Kilimandjaro ?",
+      "answers": [
+        "Tanzanie",
+        "Kenya",
+        "Ouganda",
+        "Rwanda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-8",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quelle est la capitale du Sri Lanka (administrative) ?",
+      "answers": [
+        "Sri Jayawardenapura Kotte",
+        "Colombo",
+        "Kandy",
+        "Galle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-9",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quel pays possède la plus longue côte du monde ?",
+      "answers": [
+        "Canada",
+        "Russie",
+        "Australie",
+        "Indonésie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-d-10",
+      "category": "Pays",
+      "difficulty": "difficile",
+      "question": "Quelle est la capitale de la Finlande ?",
+      "answers": [
+        "Helsinki",
+        "Oslo",
+        "Stockholm",
+        "Copenhague"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-1",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quel est le seul pays au monde à être situé sur quatre hémisphères ?",
+      "answers": [
+        "Kiribati",
+        "Indonésie",
+        "Brésil",
+        "Russie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-2",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quelle est la capitale du Bhoutan ?",
+      "answers": [
+        "Thimphou",
+        "Katmandou",
+        "Dacca",
+        "Paro"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-3",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quel pays est le plus récent reconnu par l'ONU ?",
+      "answers": [
+        "Soudan du Sud",
+        "Kosovo",
+        "Timor oriental",
+        "Monténégro"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-4",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quelle est la capitale du Suriname ?",
+      "answers": [
+        "Paramaribo",
+        "Georgetown",
+        "Cayenne",
+        "Belmopan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-5",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quel pays possède le plus grand nombre d'îles au monde ?",
+      "answers": [
+        "Suède",
+        "Canada",
+        "Indonésie",
+        "Philippines"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-6",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quelle est la capitale de la Macédoine du Nord ?",
+      "answers": [
+        "Skopje",
+        "Sofia",
+        "Belgrade",
+        "Tirana"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-7",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quel pays est bordé à la fois par la mer Caspienne et la mer Noire ?",
+      "answers": [
+        "Aucun",
+        "Russie",
+        "Turquie",
+        "Géorgie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-8",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quelle est la capitale de l'Érythrée ?",
+      "answers": [
+        "Asmara",
+        "Addis-Abeba",
+        "Khartoum",
+        "Djibouti"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-9",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quel pays est surnommé le Royaume du Tonnerre ?",
+      "answers": [
+        "Bhoutan",
+        "Népal",
+        "Mongolie",
+        "Laos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "pays-e-10",
+      "category": "Pays",
+      "difficulty": "expert",
+      "question": "Quelle est la capitale du Belize ?",
+      "answers": [
+        "Belmopan",
+        "Belize City",
+        "Panama",
+        "San José"
+      ],
+      "correctAnswer": 0
+    },
+
+    {
+      "id": "naruto-f-1",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Comment s'appelle le héros principal de Naruto ?",
+      "answers": [
+        "Naruto Uzumaki",
+        "Sasuke Uchiha",
+        "Kakashi Hatake",
+        "Shikamaru Nara"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-2",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Dans quel village Naruto habite-t-il ?",
+      "answers": [
+        "Konoha",
+        "Suna",
+        "Kiri",
+        "Iwa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-3",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Quel est le rêve de Naruto Uzumaki ?",
+      "answers": [
+        "Devenir Hokage",
+        "Devenir samouraï",
+        "Devenir professeur",
+        "Créer une nouvelle organisation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-4",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Quel démon est enfermé dans Naruto ?",
+      "answers": [
+        "Kyûbi",
+        "Shukaku",
+        "Gyûki",
+        "Matatabi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-5",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Comment s'appelle l'équipe de Naruto, Sasuke et Sakura ?",
+      "answers": [
+        "Équipe 7",
+        "Équipe 10",
+        "Équipe 5",
+        "Équipe 3"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-6",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Quel est le nom du rival principal de Naruto au début de l'histoire ?",
+      "answers": [
+        "Sasuke Uchiha",
+        "Neji Hyûga",
+        "Gaara",
+        "Rock Lee"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-7",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Quel personnage est le professeur de l'équipe 7 ?",
+      "answers": [
+        "Kakashi Hatake",
+        "Jiraiya",
+        "Iruka Umino",
+        "Orochimaru"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-8",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Quel est le nom de famille de Naruto ?",
+      "answers": [
+        "Uzumaki",
+        "Uchiha",
+        "Hyûga",
+        "Namikaze"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-9",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Quel personnage utilise principalement le Sharingan ?",
+      "answers": [
+        "Sasuke Uchiha",
+        "Naruto Uzumaki",
+        "Rock Lee",
+        "Choji Akimichi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-f-10",
+      "category": "Naruto",
+      "difficulty": "facile",
+      "question": "Comment s'appelle la technique de base préférée de Naruto avec ses clones ?",
+      "answers": [
+        "Multi-clonage",
+        "Rasengan",
+        "Chidori",
+        "Amaterasu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-1",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel est le nom du clan de Sasuke ?",
+      "answers": [
+        "Uchiha",
+        "Hyûga",
+        "Senju",
+        "Nara"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-2",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Qui a créé le Rasengan ?",
+      "answers": [
+        "Minato Namikaze",
+        "Jiraiya",
+        "Kakashi Hatake",
+        "Tobirama Senju"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-3",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel est le nom du frère de Sasuke ?",
+      "answers": [
+        "Itachi Uchiha",
+        "Madara Uchiha",
+        "Obito Uchiha",
+        "Shisui Uchiha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-4",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Qui est le maître de Naruto pendant son entraînement de trois ans ?",
+      "answers": [
+        "Jiraiya",
+        "Kakashi Hatake",
+        "Iruka Umino",
+        "Tsunade"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-5",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel pouvoir spécial possède le clan Hyûga ?",
+      "answers": [
+        "Byakugan",
+        "Sharingan",
+        "Rinnegan",
+        "Mangekyô Sharingan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-6",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel est le nom du cinquième Hokage ?",
+      "answers": [
+        "Tsunade",
+        "Kakashi",
+        "Jiraiya",
+        "Minato"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-7",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel personnage utilise la technique Chidori ?",
+      "answers": [
+        "Sasuke Uchiha",
+        "Naruto Uzumaki",
+        "Gaara",
+        "Neji Hyûga"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-8",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel est le nom du village de Gaara ?",
+      "answers": [
+        "Suna",
+        "Konoha",
+        "Kiri",
+        "Kumo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-9",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel personnage est connu comme le ninja copieur ?",
+      "answers": [
+        "Kakashi Hatake",
+        "Might Guy",
+        "Jiraiya",
+        "Orochimaru"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-m-10",
+      "category": "Naruto",
+      "difficulty": "moyen",
+      "question": "Quel est le nom de l'organisation criminelle de Naruto Shippuden ?",
+      "answers": [
+        "Akatsuki",
+        "ANBU",
+        "Racine",
+        "Taka"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-1",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du père de Naruto Uzumaki ?",
+      "answers": [
+        "Minato Namikaze",
+        "Jiraiya",
+        "Hiruzen Sarutobi",
+        "Tobirama Senju"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-2",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel est le vrai nom de Tobi dans l'Akatsuki ?",
+      "answers": [
+        "Obito Uchiha",
+        "Madara Uchiha",
+        "Zetsu",
+        "Kisame Hoshigaki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-3",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Combien de queues possède Kurama ?",
+      "answers": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-4",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du premier Hokage ?",
+      "answers": [
+        "Hashirama Senju",
+        "Madara Uchiha",
+        "Tobirama Senju",
+        "Hiruzen Sarutobi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-5",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du frère de Hashirama Senju ?",
+      "answers": [
+        "Tobirama Senju",
+        "Madara Uchiha",
+        "Izuna Uchiha",
+        "Kagami Uchiha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-6",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du démon à une queue ?",
+      "answers": [
+        "Shukaku",
+        "Matatabi",
+        "Son Goku",
+        "Gyûki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-7",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel personnage a créé la technique Edo Tensei ?",
+      "answers": [
+        "Tobirama Senju",
+        "Orochimaru",
+        "Kabuto Yakushi",
+        "Madara Uchiha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-8",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du mode spécial de Naruto utilisant l'énergie naturelle ?",
+      "answers": [
+        "Mode Ermite",
+        "Mode Chakra",
+        "Mode Bijû",
+        "Mode Six Chemins uniquement"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-9",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel personnage possède le Mangekyô Sharingan avec la technique Amaterasu ?",
+      "answers": [
+        "Itachi Uchiha",
+        "Kakashi Hatake",
+        "Sasuke uniquement",
+        "Madara Uchiha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-d-10",
+      "category": "Naruto",
+      "difficulty": "difficile",
+      "question": "Quel est le nom du chef de l'Akatsuki pendant une grande partie de Naruto Shippuden ?",
+      "answers": [
+        "Pain (Nagato)",
+        "Itachi Uchiha",
+        "Konan",
+        "Obito Uchiha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-1",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel est le nom du clan dont descend Naruto par sa mère Kushina ?",
+      "answers": [
+        "Uzumaki",
+        "Senju",
+        "Uchiha",
+        "Hyûga"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-2",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel était le nom de la technique interdite utilisée par Minato pour se téléporter ?",
+      "answers": [
+        "Hiraishin no Jutsu",
+        "Rasengan",
+        "Kamui",
+        "Amaterasu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-3",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel est le nom de la mère de Sasuke Uchiha ?",
+      "answers": [
+        "Mikoto Uchiha",
+        "Kushina Uzumaki",
+        "Tsunade",
+        "Konan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-4",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel était le surnom de Kakashi avant de devenir célèbre comme ninja copieur ?",
+      "answers": [
+        "L'éclair blanc de Konoha",
+        "Le démon de Kiri",
+        "Le serpent blanc",
+        "Le faucon noir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-5",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel est le nom du fils de Naruto et Hinata ?",
+      "answers": [
+        "Boruto Uzumaki",
+        "Kawaki Uzumaki",
+        "Himawari Uzumaki",
+        "Konohamaru Sarutobi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-6",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Qui est considéré comme le créateur du ninjutsu moderne ?",
+      "answers": [
+        "Hagoromo Ôtsutsuki",
+        "Hashirama Senju",
+        "Madara Uchiha",
+        "Jiraiya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-7",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel est le nom de l'épée utilisée par Kisame Hoshigaki ?",
+      "answers": [
+        "Samehada",
+        "Kusanagi",
+        "Kubikiribôchô",
+        "Totsuka"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-8",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel était le nom de l'équipe de Minato composée de Kakashi, Obito et Rin ?",
+      "answers": [
+        "Équipe Minato",
+        "Équipe 7",
+        "Équipe ANBU",
+        "Équipe Sannin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-9",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel est le nom du frère de Madara Uchiha ?",
+      "answers": [
+        "Izuna Uchiha",
+        "Itachi Uchiha",
+        "Shisui Uchiha",
+        "Obito Uchiha"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "naruto-e-10",
+      "category": "Naruto",
+      "difficulty": "expert",
+      "question": "Quel est le nom de la déesse à l'origine du chakra dans Naruto ?",
+      "answers": [
+        "Kaguya Ôtsutsuki",
+        "Tsunade",
+        "Konan",
+        "Kushina Uzumaki"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

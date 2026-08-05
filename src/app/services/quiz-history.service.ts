@@ -1,32 +1,49 @@
-export interface QuizResult {
-  category: string;
-  icon: string;
-  money: number;
-  difficulty: string;
-  questions: number;
-  date: string;
-  time: string;
-}
-
-
 import { Injectable } from '@angular/core';
+
+export interface QuizHistory {
+  category: string;
+  difficulty: string;
+  money: number;
+  date: string;
+}
 
 @Injectable({
   providedIn: 'root'
 })
 export class QuizHistoryService {
 
-  private history: QuizResult[] = [];
+  private history: QuizHistory[] = [];
 
+  constructor() {
+    const saved = localStorage.getItem('quizHistory');
 
-  addResult(result: QuizResult) {
-    console.log('Adding result to history:', result);
-    this.history.unshift(result);
+    if (saved) {
+      this.history = JSON.parse(saved);
+    }
   }
 
+  addQuiz(result: QuizHistory) {
+    console.log('Quiz ajouté :', result);
 
-  getHistory(): QuizResult[] {
+    this.history.unshift(result);
+
+    localStorage.setItem(
+      'quizHistory',
+      JSON.stringify(this.history)
+    );
+
+    console.log(
+      'LocalStorage :',
+      localStorage.getItem('quizHistory')
+    );
+  }
+
+  getHistory(): QuizHistory[] {
     return this.history;
   }
 
+  clearHistory() {
+    this.history = [];
+    localStorage.removeItem('quizHistory');
+  }
 }

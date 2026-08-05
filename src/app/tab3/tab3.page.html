@@ -1,225 +1,43 @@
-<ion-header class="header">
-
+<ion-header>
   <ion-toolbar>
-
     <ion-title>
-      <ion-icon name="time-outline"></ion-icon>
-      Historique
+      Quiz récents
     </ion-title>
-
   </ion-toolbar>
-
 </ion-header>
-
 
 <ion-content>
 
+  <ion-list *ngIf="history.length > 0">
 
-  <div class="container">
+    <ion-item *ngFor="let quiz of history">
 
+      <ion-icon name="trophy-outline" slot="start"></ion-icon>
 
-    <!-- Statistiques -->
-    <div class="stats">
+      <ion-label>
+        <h2>{{ quiz.category }}</h2>
+        <p>
+          Difficulté : {{ quiz.difficulty }}
+        </p>
+        <p>
+          Score : {{ quiz.money }} $
+        </p>
+        <p>
+          {{ quiz.date }}
+        </p>
+      </ion-label>
 
+    </ion-item>
 
-      <div class="stat-card">
+  </ion-list>
 
-        <ion-icon name="game-controller-outline"></ion-icon>
 
-        <strong>
-          {{history.length}}
-        </strong>
-
-        <span>
-          Quiz joués
-        </span>
-
-      </div>
-
-
-
-      <div class="stat-card">
-
-        <ion-icon name="trophy-outline"></ion-icon>
-
-        <strong>
-          {{bestMoney}}
-        </strong>
-
-        <span>
-          Meilleur
-        </span>
-
-      </div>
-
-
-
-      <div class="stat-card">
-
-        <ion-icon name="star-outline"></ion-icon>
-
-        <strong>
-          {{averageMoney}}
-        </strong>
-
-        <span>
-          Moyenne
-        </span>
-
-      </div>
-
-
-    </div>
-
-
-
-
-    <h2>
-
-      <ion-icon name="albums-outline"></ion-icon>
-
-      Derniers jeux
-
-    </h2>
-
-
-
-    <!-- Historique -->
-
-    <ion-card 
-      class="quiz-card"
-      *ngFor="let quiz of history">
-
-
-      <ion-card-content>
-
-
-        <div class="top">
-
-
-          <div class="category">
-
-
-            <ion-icon
-              [name]="quiz.icon">
-            </ion-icon>
-
-
-            <div>
-
-              <h3>
-                {{quiz.category}}
-              </h3>
-
-
-              <small>
-
-                <ion-icon name="calendar-outline"></ion-icon>
-
-                {{quiz.date}}
-
-                <ion-icon name="time-outline"></ion-icon>
-
-                {{quiz.time}}
-
-              </small>
-
-
-            </div>
-
-
-          </div>
-
-
-
-          <ion-badge
-          [color]="
-          quiz.difficulty === 'Difficile'
-          ? 'danger'
-          :
-          quiz.difficulty === 'Moyen'
-          ? 'warning'
-          :
-          'success'
-          ">
-
-            {{quiz.difficulty}}
-
-          </ion-badge>
-
-
-        </div>
-
-
-
-
-        <div class="score">
-
-
-          <div>
-
-            <ion-icon name="trophy-outline"></ion-icon>
-
-            Score
-
-            <strong>
-              {{quiz.money}}/100
-            </strong>
-
-          </div>
-
-
-
-          <ion-progress-bar
-            [value]="quiz.money / 100">
-          </ion-progress-bar>
-
-
-        </div>
-
-
-
-        <div class="questions">
-
-
-          <ion-icon name="help-circle-outline"></ion-icon>
-
-          {{quiz.questions}} questions
-
-
-        </div>
-
-
-
-      </ion-card-content>
-
-
-    </ion-card>
-
-
-
-
-
-    <!-- Aucun historique -->
-
-    <div
-    class="empty"
-    *ngIf="history.length === 0">
-
-
-      <ion-icon name="game-controller-outline"></ion-icon>
-
-
-      <h2>
-        Aucun quiz récent
-      </h2>
-
-
-      <p>
-        Joue un quiz pour voir tes résultats ici.
-      </p>
-    </div>
+  <div *ngIf="history.length === 0" class="empty">
+    <ion-icon name="game-controller-outline"></ion-icon>
+    <h2>Aucun quiz récent</h2>
+    <p>Fais un quiz pour voir ton historique ici.</p>
   </div>
+
 </ion-content>
 
 <div class="background-shapes">
