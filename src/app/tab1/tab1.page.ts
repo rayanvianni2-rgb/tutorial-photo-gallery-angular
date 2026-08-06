@@ -12,7 +12,8 @@ type QuizCategory =
   | 'Minecraft'
   | 'Roblox'
   | 'Pays'
-  | 'Naruto';
+  | 'Naruto'
+  | 'Musique';
 
 type Difficulty =
   | 'facile'
@@ -129,6 +130,13 @@ export class Tab1Page implements OnInit, OnDestroy {
       icon: 'flash',
       color: 'naruto',
       description: 'Ninja, villages et techniques'
+    },
+
+    {
+      name: 'Musique',
+      icon: 'musical-notes',
+      color: 'music',
+      description: 'Artistes, albums et morceaux'
     }
   ];
 

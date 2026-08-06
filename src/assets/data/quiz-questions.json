@@ -5517,6 +5517,527 @@
         "Kushina Uzumaki"
       ],
       "correctAnswer": 0
+    },
+
+    {
+      "id": "musique-f-1",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Combien de notes comporte une gamme musicale classique ?",
+      "answers": [
+        "7",
+        "5",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-2",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel instrument possède généralement 88 touches ?",
+      "answers": [
+        "Le piano",
+        "La guitare",
+        "La batterie",
+        "Le violon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-3",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel instrument est surnommé le roi des instruments ?",
+      "answers": [
+        "L'orgue",
+        "Le piano",
+        "La guitare",
+        "La flûte"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-4",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel instrument possède six cordes dans sa version la plus courante ?",
+      "answers": [
+        "La guitare",
+        "Le violon",
+        "La harpe",
+        "Le banjo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-5",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel symbole indique le silence en musique ?",
+      "answers": [
+        "Le soupir",
+        "La clé de sol",
+        "La noire",
+        "La croche"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-6",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel instrument est frappé avec des baguettes ?",
+      "answers": [
+        "La batterie",
+        "Le piano",
+        "Le saxophone",
+        "La trompette"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-7",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel chanteur est surnommé le Roi de la Pop ?",
+      "answers": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Ed Sheeran",
+        "Bruno Mars"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-8",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel instrument est utilisé pour jouer des rythmes dans un groupe ?",
+      "answers": [
+        "La batterie",
+        "Le violon",
+        "La harpe",
+        "La clarinette"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-9",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel est le nom de la clé musicale la plus utilisée ?",
+      "answers": [
+        "La clé de sol",
+        "La clé de fa",
+        "La clé d'ut",
+        "La clé majeure"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-f-10",
+      "category": "Musique",
+      "difficulty": "facile",
+      "question": "Quel instrument est principalement utilisé dans les fanfares ?",
+      "answers": [
+        "La trompette",
+        "Le piano",
+        "La guitare",
+        "Le violoncelle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-1",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel groupe britannique a interprété la chanson « Bohemian Rhapsody » ?",
+      "answers": [
+        "Queen",
+        "The Beatles",
+        "Coldplay",
+        "Oasis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-2",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel compositeur est devenu sourd à la fin de sa vie ?",
+      "answers": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Frédéric Chopin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-3",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel instrument possède généralement 47 cordes ?",
+      "answers": [
+        "La harpe",
+        "Le violon",
+        "La guitare",
+        "Le piano"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-4",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel chanteur est connu sous le surnom de « King of Rock and Roll » ?",
+      "answers": [
+        "Elvis Presley",
+        "Michael Jackson",
+        "Freddie Mercury",
+        "David Bowie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-5",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Combien de cordes possède un violon ?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-6",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel est le nom de la voix masculine la plus grave ?",
+      "answers": [
+        "Basse",
+        "Ténor",
+        "Alto",
+        "Soprano"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-7",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel groupe est composé de John Lennon, Paul McCartney, George Harrison et Ringo Starr ?",
+      "answers": [
+        "The Beatles",
+        "Queen",
+        "ABBA",
+        "U2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-8",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel instrument est joué à l'aide d'un archet ?",
+      "answers": [
+        "Le violoncelle",
+        "La guitare",
+        "Le piano",
+        "La batterie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-9",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel style musical est né en Jamaïque ?",
+      "answers": [
+        "Reggae",
+        "Jazz",
+        "Blues",
+        "Country"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-m-10",
+      "category": "Musique",
+      "difficulty": "moyen",
+      "question": "Quel chanteur était le leader du groupe Queen ?",
+      "answers": [
+        "Freddie Mercury",
+        "Bono",
+        "Mick Jagger",
+        "Phil Collins"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-1",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel compositeur a écrit « Les Quatre Saisons » ?",
+      "answers": [
+        "Antonio Vivaldi",
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-2",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel artiste a sorti l'album « Thriller » en 1982 ?",
+      "answers": [
+        "Michael Jackson",
+        "Prince",
+        "Madonna",
+        "Whitney Houston"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-3",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Dans quel pays est né Frédéric Chopin ?",
+      "answers": [
+        "Pologne",
+        "France",
+        "Allemagne",
+        "Autriche"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-4",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel instrument est associé au musicien Yo-Yo Ma ?",
+      "answers": [
+        "Le violoncelle",
+        "Le violon",
+        "Le piano",
+        "La flûte"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-5",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel groupe a interprété la chanson « Hotel California » ?",
+      "answers": [
+        "Eagles",
+        "Queen",
+        "The Rolling Stones",
+        "Pink Floyd"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-6",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel chanteur est connu pour le titre « Purple Rain » ?",
+      "answers": [
+        "Prince",
+        "David Bowie",
+        "George Michael",
+        "Elton John"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-7",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel compositeur est surnommé « le père de la symphonie » ?",
+      "answers": [
+        "Joseph Haydn",
+        "Mozart",
+        "Beethoven",
+        "Schubert"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-8",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel groupe de rock est originaire d'Irlande ?",
+      "answers": [
+        "U2",
+        "Queen",
+        "Nirvana",
+        "Metallica"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-9",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel est l'instrument principal de Louis Armstrong ?",
+      "answers": [
+        "La trompette",
+        "Le saxophone",
+        "Le piano",
+        "La clarinette"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-d-10",
+      "category": "Musique",
+      "difficulty": "difficile",
+      "question": "Quel compositeur a écrit l'opéra « La Flûte enchantée » ?",
+      "answers": [
+        "Wolfgang Amadeus Mozart",
+        "Giuseppe Verdi",
+        "Richard Wagner",
+        "Antonio Vivaldi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-1",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel compositeur a terminé sa Symphonie n° 9 alors qu'il était complètement sourd ?",
+      "answers": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Antonio Vivaldi",
+        "Franz Schubert"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-2",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel est le plus grand instrument de la famille des cordes frottées ?",
+      "answers": [
+        "La contrebasse",
+        "Le violoncelle",
+        "L'alto",
+        "Le violon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-3",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel chanteur était le leader du groupe Nirvana ?",
+      "answers": [
+        "Kurt Cobain",
+        "Dave Grohl",
+        "Axl Rose",
+        "Eddie Vedder"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-4",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel groupe a sorti l'album « The Dark Side of the Moon » ?",
+      "answers": [
+        "Pink Floyd",
+        "Led Zeppelin",
+        "Queen",
+        "The Beatles"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-5",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel compositeur est l'auteur du « Boléro » ?",
+      "answers": [
+        "Maurice Ravel",
+        "Claude Debussy",
+        "Camille Saint-Saëns",
+        "Gabriel Fauré"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-6",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel chanteur est surnommé « The Boss » ?",
+      "answers": [
+        "Bruce Springsteen",
+        "Billy Joel",
+        "Bob Dylan",
+        "Elton John"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-7",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel compositeur a écrit le célèbre « Canon en ré majeur » ?",
+      "answers": [
+        "Johann Pachelbel",
+        "Jean-Sébastien Bach",
+        "Joseph Haydn",
+        "Georg Friedrich Haendel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-8",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel groupe est l'auteur de la chanson « Stairway to Heaven » ?",
+      "answers": [
+        "Led Zeppelin",
+        "Deep Purple",
+        "AC/DC",
+        "Pink Floyd"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-9",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quelle chanteuse est surnommée « Queen of Pop » ?",
+      "answers": [
+        "Madonna",
+        "Lady Gaga",
+        "Whitney Houston",
+        "Mariah Carey"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "musique-e-10",
+      "category": "Musique",
+      "difficulty": "expert",
+      "question": "Quel est le nom de la plus haute voix féminine en musique classique ?",
+      "answers": [
+        "Soprano",
+        "Alto",
+        "Mezzo-soprano",
+        "Contralto"
+      ],
+      "correctAnswer": 0
     }
   ]
 }
